@@ -10,7 +10,7 @@ export default function About() {
         <img src={hettyImage} className="about-hetty-image" />
         <img src={annaImage} className="about-anna-image" />
         <div className="about-page-content">
-          <h1>Over ons.</h1>
+          <h2>Over ons</h2>
           <p>
             Achter Logos Schrijven & Coaching schuilt een duo dat zich richt op
             het bevorderen van welzijn door middel van schrijven.{" "}
@@ -37,12 +37,10 @@ export default function About() {
         </div>
         <div className="about-page-cta">
           <h2>
-            Een keuze uit diverse online cursussen.
-            <br />
             We bieden een breed scala aan individuele en op maat gemaakte
-            schrijfcursussen.
+            online schrijfcursussen.
           </h2>
-          <Link className="link-button" to="/vans">
+          <Link className="link-button" to="/information">
             Vind jouw cursus
           </Link>
         </div>

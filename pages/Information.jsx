@@ -8,13 +8,14 @@ export default function Information() {
         <h2> Een keuze uit diverse online cursussen</h2>
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
-          schrijfcursussen. • Wil je vooral de ambachtelijke kant van het
-          schrijversvak leren? Dan is <strong>‘Schrijven als ambacht’ </strong>
-          iets voor jou. • Verwacht je dat hetgeen je schrijft veel emoties op
-          zal roepen, bijvoorbeeld omdat je jouw levensverhaal of
+          schrijfcursussen.
+          <br />• Wil je vooral de ambachtelijke kant van het schrijversvak
+          leren? Dan is <strong>‘Schrijven als ambacht’ </strong>
+          iets voor jou. <br />• Verwacht je dat hetgeen je schrijft veel
+          emoties op zal roepen, bijvoorbeeld omdat je jouw levensverhaal of
           familiegeschiedenis wil schrijven? Denk dan eens aan de cursus{" "}
-          <strong> ‘Het persoonlijk verhaal’ </strong>. • Wil je vooral graag
-          schrijven om te verwerken of te groeien, kijk dan naar de cursus{" "}
+          <strong> ‘Het persoonlijk verhaal’ </strong>. <br /> • Wil je vooral
+          graag schrijven om te verwerken of te groeien, kijk dan naar de cursus{" "}
           <strong>‘Schrijftherapie en empowerment’</strong>. Bij alle cursussen
           krijg je begeleiding van Hetty en Anna; soms wat meer Hetty, soms wat
           meer Anna. Met elkaar bepalen we wat voor jou het beste zal werken.

@@ -88,7 +88,7 @@ export default function Information() {
         <h3>
           Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen
           snel contact met je op.
-        </h3>{" "}
+        </h3>
         <h4> Tot ziens bij Logos! Anna en Hetty </h4>
       </div>
     </div>

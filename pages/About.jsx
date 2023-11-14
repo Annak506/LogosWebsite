@@ -1,15 +1,14 @@
 import React from "react"
+import hettyImage from "../assets/images/hetty.jpg";
+import annaImage from "../assets/images/anna.jpg";
 
 import { Link } from "react-router-dom"
 
 export default function About() {
     return (
       <div className="about-page-container">
-        <img src="C:\Users\cgban\OneDrive\Desktop\LogosWebsite\assets\images\hetty.jpg" className="about-hero-image" />
-        <img
-          src="C:\Users\cgban\OneDrive\Desktop\LogosWebsite\assets\images\anna.jpg"
-          className="about-hero-image"
-        />
+        <img src={hettyImage} className="about-hero-image" />
+        <img src={annaImage} className="about-hero-image"/>
         <div className="about-page-content">
           <h1>Don’t squeeze in a sedan when you could relax in a van.</h1>
           <p>

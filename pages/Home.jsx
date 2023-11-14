@@ -3,10 +3,15 @@ import { Link } from "react-router-dom"
 
 export default function Home() {
     return (
-        <div className="home-container">
-            <h1>You got the travel plans, we got the travel vans.</h1>
-            <p>Add adventure to your life by joining the #vanlife movement. Rent the perfect van to make your perfect road trip.</p>
-            <Link to="vans">Find your van</Link>
-        </div>
-    )
+      <div className="home-container">
+        <h1>Welkom bij Logos Schrijven en coaching online.</h1>
+        <p>
+          Schrijven is veel meer dan alleen het neerzetten van woorden op
+          papier. Het is het vertellen van een verhaal, een uitlaatklep, een
+          instrument voor introspectie, en een manier om emoties te onthullen en
+          verwerken.
+        </p>
+        <Link to="vans">Vind jouw cursus</Link>
+      </div>
+    );
 };

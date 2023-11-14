@@ -107,16 +107,16 @@ header a:hover {
 
 
 /*** ABOUT PAGE ***/
-.about-hetty-image {
-    max-width: 100%;
-    margin-right: 80px; 
-    margin-left: 450px;
-    margin-top: 15px;
+.about-page-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-.about-anna-image{
-    margin-top: 15px;
+.about-hetty-image,
+.about-anna-image {
     max-width: 100%;
+    margin: 15px; 
 }
 
 .about-page-content {

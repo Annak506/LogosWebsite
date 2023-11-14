@@ -8,27 +8,42 @@ export default function About() {
     return (
       <div className="about-page-container">
         <img src={hettyImage} className="about-hetty-image" />
-        <img src={annaImage} className="about-anna-image"/>
+        <img src={annaImage} className="about-anna-image" />
         <div className="about-page-content">
-          <h1>Don’t squeeze in a sedan when you could relax in a van.</h1>
+          <h1>Over ons.</h1>
           <p>
-            Our mission is to enliven your road trip with the perfect travel van
-            rental. Our vans are recertified before each trip to ensure your
-            travel plans can go off without a hitch. (Hitch costs extra 😉)
+            Achter Logos Schrijven & Coaching schuilt een duo dat zich richt op
+            het bevorderen van welzijn door middel van schrijven.{" "}
+            <strong> Hetty Kleinloog </strong> (1958) met meer dan 15 jaar
+            ervaring als schrijver en schrijfdocent bij o.a. de
+            Schrijversacademie, de Volksuniversiteit en diverse
+            (theater)opleidingen, heeft vanuit haar rol als begeleider van
+            talloze cursisten kunnen ervaren dat creatief schijven iets is dat
+            iedereen kan leren. In de schrijfbegeleiding die zij geeft richt zij
+            zich op de ambachtelijke kant van het schrijversvak en ondersteunt
+            zij de cursisten in het vormgeven van verhalen die raken.
           </p>
           <p>
-            Our team is full of vanlife enthusiasts who know firsthand the magic
-            of touring the world on 4 wheels.
+            Naast Hetty staat <strong> Anna Kleinloog </strong> (1993), opgeleid
+            als psycholoog en orthopedagoog, die haar expertise heeft ingezet in
+            o.a. de ggz en de verslavingszorg, waar schrijven werd gebruikt als
+            een vorm van behandeling. Anna’s achtergrond in zowel de klinische
+            psychologie als de Schrijversacademie stelt haar in staat om de
+            therapeutische aspecten van het schrijven te begrijpen en te
+            integreren in de aanpak van Schrijfcoaching. Schrijven kan een
+            krachtig middel zijn om emoties te uiten, trauma’s te verwerken en
+            een nieuw perspectief op het leven te creëren.
           </p>
         </div>
         <div className="about-page-cta">
           <h2>
-            Your destination is waiting.
+            Een keuze uit diverse online cursussen.
             <br />
-            Your van is ready.
+            We bieden een breed scala aan individuele en op maat gemaakte
+            schrijfcursussen.
           </h2>
           <Link className="link-button" to="/vans">
-            Explore our vans
+            Vind jouw cursus
           </Link>
         </div>
       </div>

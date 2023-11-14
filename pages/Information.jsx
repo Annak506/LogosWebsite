@@ -23,6 +23,7 @@ export default function Information() {
         </p>
         <p>
           <strong>1. Schrijven als ambacht </strong>
+          <br style={{ marginBottom: "5px" }} />
           Deze training is voor iedereen die van taal houdt! Wil je graag een
           verhaal op papier zetten? Of ben je nieuwsgierig naar je
           schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
@@ -50,6 +51,7 @@ export default function Information() {
         </p>
         <p>
           <strong>2. Het persoonlijk verhaal</strong>
+          <br style={{ marginBottom: "5px" }} />
           Bij Het persoonlijk verhaal krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
           verwerken. Of je nu je autobiografie wilt schrijven of je
@@ -66,25 +68,26 @@ export default function Information() {
           <em>“True stories, well told”</em> .
         </p>
         <p>
-          <strong> 3. Schrijftherapie en empowerment </strong> Ontdek de kracht
-          van schrijven als middel tot verwerking en persoonlijke ontwikkeling.
-          Bij deze cursus ligt de focus op het gebruik van schrijven als
-          therapeutisch instrument, waarbij het schrijven zelf niet het doel is,
-          maar het middel. Logos hanteert een socratische therapievorm, waarbij
-          de coach geen kant-en-klare adviezen geeft, maar juist vragen stelt om
-          jouw eigen inzichten en antwoorden naar boven te laten komen. Je kunt
-          vertrouwen op jouw ervaringskennis, als waardevolle bron bij het
-          schrijven van teksten.
+          <strong> 3. Schrijftherapie en empowerment </strong>
+          <br style={{ marginBottom: "5px" }} />
+          Ontdek de kracht van schrijven als middel tot verwerking en
+          persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het
+          gebruik van schrijven als therapeutisch instrument, waarbij het
+          schrijven zelf niet het doel is, maar het middel. Logos hanteert een
+          socratische therapievorm, waarbij de coach geen kant-en-klare adviezen
+          geeft, maar juist vragen stelt om jouw eigen inzichten en antwoorden
+          naar boven te laten komen. Je kunt vertrouwen op jouw ervaringskennis,
+          als waardevolle bron bij het schrijven van teksten.
         </p>
       </div>
       <div className="about-page-cta">
         <h2>
           <strong>Praktische informatie: </strong> Prijs: 10 lessen 595 euro
-          <br style={{ borderBottom: "5px solid white" }} />
+          <br style={{ marginBottom: "10px" }} />
           Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen
           snel contact met je op.
-          <br style={{ borderBottom: "5px solid white" }} /> Tot ziens bij
-          Logos! Anna en Hetty
+          <br style={{ marginBottom: "10px" }} /> Tot ziens bij Logos! Anna en
+          Hetty
         </h2>
       </div>
     </div>

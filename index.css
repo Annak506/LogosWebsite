@@ -106,10 +106,14 @@ header a:hover {
 
 
 /*** ABOUT PAGE ***/
-.about-hero-image {
+.about-hetty-image {
     max-width: 100%;
-    margin-right: 50px; 
-    margin-left: 50px;
+    margin-right: 10px; 
+    margin-left: 200px;
+}
+
+.about-anna-image{
+    max-width: 100%;
 }
 
 .about-page-content {

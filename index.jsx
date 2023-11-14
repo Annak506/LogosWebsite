@@ -9,9 +9,9 @@ function App() {
   return (
     <BrowserRouter>
       <header>
-        <Link className="site-logo" to="/">#VanLife</Link>
+        <Link className="site-logo" to="/">#Logos</Link>
         <nav>
-          <Link to="/about">About</Link>
+          <Link to="/about">Over ons</Link>
         </nav>
       </header>
       <Routes>

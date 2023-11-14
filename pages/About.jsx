@@ -5,8 +5,11 @@ import { Link } from "react-router-dom"
 export default function About() {
     return (
       <div className="about-page-container">
-        <img src="./assets/images/Hetty.jpg" className="about-hero-image" />
-        <img src="./assets/images/Anna.jpg" className="about-hero-image" />
+        <img src="C:\Users\cgban\OneDrive\Desktop\LogosWebsite\assets\images\hetty.jpg" className="about-hero-image" />
+        <img
+          src="C:\Users\cgban\OneDrive\Desktop\LogosWebsite\assets\images\anna.jpg"
+          className="about-hero-image"
+        />
         <div className="about-page-content">
           <h1>Don’t squeeze in a sedan when you could relax in a van.</h1>
           <p>

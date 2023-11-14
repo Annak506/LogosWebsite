@@ -83,10 +83,10 @@ export default function Information() {
       <div className="about-page-cta">
         <h2>
           <strong>Praktische informatie: </strong> Prijs: 10 lessen 595 euro
-          <br style={{ marginBottom: "10px" }} />
+          <br style={{ marginBottom: "30px" }} />
           Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen
           snel contact met je op.
-          <br style={{ marginBottom: "10px" }} /> Tot ziens bij Logos! Anna en
+          <br style={{ marginBottom: "30px" }} /> Tot ziens bij Logos! Anna en
           Hetty
         </h2>
       </div>

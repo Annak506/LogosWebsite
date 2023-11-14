@@ -11,7 +11,7 @@ export default function Home() {
           instrument voor introspectie, en een manier om emoties te onthullen en
           verwerken.
         </p>
-        <Link to="vans">Vind jouw cursus</Link>
+        <Link to="information">Vind jouw cursus</Link>
       </div>
     );
 };

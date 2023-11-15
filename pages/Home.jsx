@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 export default function Home() {
     return (
       <div className="home-container">
-        <h1>Welkom bij Logos Schrijven en coaching.</h1>
+        <h1>Welkom bij Logos Schrijven en Coaching.</h1>
         <p>
           Schrijven is veel meer dan alleen het neerzetten van woorden op
           papier. Het is het vertellen van een verhaal, een uitlaatklep, een

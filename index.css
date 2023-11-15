@@ -174,5 +174,6 @@ details{
 }
 
 .indent{
-    margin-left: 40px;
+    display: block; 
+    margin-left: 20px;
 }

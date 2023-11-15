@@ -25,10 +25,9 @@ export default function Information() {
           </span>
           <span className="bullet-point">
             • Wil je vooral graag schrijven om te verwerken of te groeien, kijk
-            dan naar de cursus
+            dan naar de cursus 
             <strong>‘Schrijftherapie en empowerment’</strong>.
           </span>
-          <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
           meer Hetty, soms wat meer Anna. Met elkaar bepalen we wat voor jou het

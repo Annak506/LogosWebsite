@@ -7,8 +7,8 @@ import { Link } from "react-router-dom"
 export default function About() {
     return (
       <div className="about-page-container">
-        <img src={hettyImage} className="about-hetty-image" />
-        <img src={annaImage} className="about-anna-image" />       
+        <img src={hettyImage} className="about-hetty-image with-border" />
+        <img src={annaImage} className="about-anna-image with-border" />
         <div className="about-page-content">
           <h2>Over ons</h2>
           <p>
@@ -37,14 +37,13 @@ export default function About() {
         </div>
         <div className="about-page-cta">
           <h2>
-            We bieden een breed scala aan individuele en op maat gemaakte
-            online schrijfcursussen.
+            We bieden een breed scala aan individuele en op maat gemaakte online
+            schrijfcursussen.
           </h2>
           <Link className="link-button" to="/information">
             Vind jouw cursus
           </Link>
         </div>
       </div>
-      
     );
 }

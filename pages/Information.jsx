@@ -7,9 +7,7 @@ export default function Information() {
   return (
     <div className="about-page-container">
       <div className="about-page-content">
-        <h2>
-           Een keuze uit diverse online cursussen 
-        </h2>
+        <h2>Een keuze uit diverse online cursussen</h2>
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.
@@ -115,7 +113,7 @@ export default function Information() {
         </p>
       </div>
       <div className="about-page-cta">
-        <h2>
+        <h2 style={{ margin: 0 }}>
           <strong>Praktische informatie: </strong> Prijs: 10 lessen 595 euro
         </h2>
         <h3>

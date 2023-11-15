@@ -37,7 +37,7 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-           <img src={ink} />
+        <img src={ink} width="200px" alt="writing" />
         </div>
 
         <p>

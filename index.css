@@ -167,3 +167,7 @@ details{
 .image-container {
   text-align: center;
 }
+
+.bullet-point {
+  margin-left: 20px; 
+}

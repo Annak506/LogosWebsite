@@ -113,7 +113,7 @@ export default function Information() {
         </p>
       </div>
       <div className="about-page-cta">
-        <h2 style={{ margin: 0 }}>
+        <h2 style={{ paddingBottom: 0 }}>
           <strong>Praktische informatie: </strong> Prijs: 10 lessen 595 euro
         </h2>
         <h3>

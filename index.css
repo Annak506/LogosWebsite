@@ -128,6 +128,17 @@ h4{
     margin: 15px; 
 }
 
+@media (min-width: 600px) {
+    .about-page-container {
+        flex-direction: row;
+    }
+
+    .about-hetty-image,
+    .about-anna-image {
+        width: 48%; 
+    }
+}
+
 .about-page-container{
     margin-top: 20px;
     margin-right: 40px;

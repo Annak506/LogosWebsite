@@ -32,7 +32,6 @@ export default function Information() {
           schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
           bij je past? In deze toegankelijke cursus ga je aan de slag met het
           ontwikkelen van je schrijfvaardigheden.
-          <br style={{ marginBottom: "5px" }} />
         </p>
         <details>
           <summary>Lees meer</summary>

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import handsImage from "../assets/images/hands.jpg";
+import sheWritesImage from "../assets/images/sheWrites.jpg";
 
 export default function Information() {
   return (
@@ -25,7 +25,7 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-          <img src={handsImage} alt="Hands" width="200px" />
+          <img src={sheWritesImage} alt="Hands" />
         </div>
 
         <p>

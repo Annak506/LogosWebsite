@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 body {
   -ms-overflow-style: none;
   scrollbar-width: none;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 header {

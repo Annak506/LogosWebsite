@@ -123,10 +123,14 @@ details{
     margin: 15px; 
 }
 
+.about-page-container{
+    margin-top: 20px;
+}
+
 .about-page-content {
     padding-inline: 23px;
     color: #161616;
-    margin-bottom: 55px;
+    margin-bottom: 30px;
 }
 
 .about-page-content h1 {

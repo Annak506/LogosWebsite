@@ -4,12 +4,14 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 import Home from "./pages/Home"
 import About from "./pages/About"
 import Information from "./pages/Information"
+import drawingPen from "../assets/images/drawingPen.png";
+
 
 function App() {
   return (
     <BrowserRouter>
       <header>
-        <Link className="site-logo" to="/">#Logos </Link>
+        <Link className="site-logo" to="/">Logos <img src={drawingPen} width = "40px" /> </Link>
         <nav>
           <Link to="/about">Over ons</Link>
         </nav>

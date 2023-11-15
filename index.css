@@ -174,7 +174,7 @@ h4{
   text-align: center;
 }
 
-.bullet-point {
+span.bullet-point .indent{
   margin-left: 20px; 
 }
 

@@ -200,3 +200,12 @@ h4{
 .with-image-border{
     border: 3.5px solid rgb(243, 171, 104);
 }
+
+.team-member {
+    
+@media only screen and (max-width: 600px) {
+    .team-member {
+        display: block; 
+    }
+}
+}

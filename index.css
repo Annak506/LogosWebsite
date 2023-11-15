@@ -25,7 +25,6 @@ header {
     display: flex;
     align-items: center;
     padding-block: 10px;
-    margin-right: 10px;
 }
 
 header .site-logo {
@@ -54,6 +53,10 @@ details{
 
 h4{
     margin-bottom: 0px;
+}
+
+nav{
+      margin-right: 10px;
 }
 
 .link-button {

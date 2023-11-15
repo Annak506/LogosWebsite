@@ -182,3 +182,12 @@ h4{
     margin-left: 20px;
     margin-bottom: 0;
 }
+
+
+@media (min-width: 600px) {
+    .picturesAH{
+        flex-direction: row;
+    
+    }
+}
+

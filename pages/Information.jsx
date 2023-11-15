@@ -10,7 +10,8 @@ export default function Information() {
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.
-          <br style={{ marginBottom: "5px" }} />c
+          <br style={{ marginBottom: "5px" }} />
+          <br style={{ marginBottom: "5px" }} />
           <span className="bullet-point">•</span> Wil je vooral de ambachtelijke
           kant van het schrijversvak leren? Dan is{" "}
           <strong>‘Schrijven als ambacht’ </strong>
@@ -25,7 +26,9 @@ export default function Information() {
           <span className="bullet-point">•</span> Wil je vooral graag schrijven
           om te verwerken of te groeien, kijk dan naar de cursus{" "}
           <strong>‘Schrijftherapie en empowerment’</strong>.
-          <br style={{ marginBottom: "5px" }} /> {" "} Bij alle cursussen krijg je
+          <br style={{ marginBottom: "5px" }} />
+          <br style={{ marginBottom: "5px" }} />
+          Bij alle cursussen krijg je
           begeleiding van Hetty en Anna; soms wat meer Hetty, soms wat meer
           Anna. Met elkaar bepalen we wat voor jou het beste zal werken. Neem
           gerust contact met ons op voor informatie. We helpen je met het

@@ -157,3 +157,7 @@ details{
     color: white;
     border-radius: 10px;
 }
+
+.image-container {
+  text-align: center;
+}

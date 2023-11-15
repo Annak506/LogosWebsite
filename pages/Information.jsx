@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import handsImage from "../assets/images/hands.jpg";
 
 export default function Information() {
   return (
@@ -23,7 +24,9 @@ export default function Information() {
           met het uitkiezen van de cursus die bij jou past.
         </p>
 
-        <img src="assets\images\hands.jpg" width = "200px" margin = "auto auto"/>
+        <div className="image-container">
+          <img src={handsImage} alt="Hands" width="200px" />
+        </div>
 
         <p>
           <strong>1. Schrijven als ambacht </strong>
@@ -103,7 +106,6 @@ export default function Information() {
             </p>
           </details>
         </p>
-
       </div>
       <div className="about-page-cta">
         <h2>

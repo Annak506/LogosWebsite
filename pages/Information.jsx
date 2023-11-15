@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import sheWritesImage from "../assets/images/sheWrites.jpg";
-import ink from "../assets/images/ink.jpg";
+import ink from "../assets/images/ink.png";
 
 export default function Information() {
   return (

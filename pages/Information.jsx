@@ -13,20 +13,25 @@ export default function Information() {
           schrijfcursussen.
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
-          <span className="bullet-point">•</span> Wil je vooral de ambachtelijke
-          kant van het schrijversvak leren? Dan is{" "}
-          <strong>‘Schrijven als ambacht’ </strong>
-          iets voor jou. <br />
-          <span className="bullet-point">•</span> Verwacht je dat hetgeen je
-          schrijft veel emoties op zal roepen, bijvoorbeeld omdat je jouw
-          levensverhaal of familiegeschiedenis wil schrijven? Denk dan eens
-          <span className="indent">
-            {" "}
-            aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.{" "}
+          <span className="bullet-point">
+            • Wil je vooral de ambachtelijke kant van het schrijversvak leren?
+            Dan is <strong>‘Schrijven als ambacht’ </strong>
+            iets voor jou. <br />
           </span>
-          <span className="bullet-point">•</span> Wil je vooral graag schrijven
-          om te verwerken of te groeien, kijk dan naar de cursus{" "}
-          <strong>‘Schrijftherapie en empowerment’</strong>.
+          <span className="bullet-point">
+            • Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
+            bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil
+            schrijven? Denk dan eens
+            <span className="indent">
+              {" "}
+              aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.
+            </span>
+          </span>
+          <span className="bullet-point">
+            • Wil je vooral graag schrijven om te verwerken of te groeien, kijk
+            dan naar de cursus
+            <strong>‘Schrijftherapie en empowerment’</strong>.
+          </span>
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat

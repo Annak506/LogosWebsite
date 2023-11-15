@@ -7,7 +7,9 @@ export default function Information() {
   return (
     <div className="about-page-container">
       <div className="about-page-content">
-        <h2> Een keuze uit diverse online cursussen</h2>
+        <h2>
+          <strong> Een keuze uit diverse online cursussen </strong> 
+        </h2>
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.
@@ -29,19 +31,18 @@ export default function Information() {
           <strong>‘Schrijftherapie en empowerment’</strong>.
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
-          Bij alle cursussen krijg je
-          begeleiding van Hetty en Anna; soms wat meer Hetty, soms wat meer
-          Anna. Met elkaar bepalen we wat voor jou het beste zal werken. Neem
-          gerust contact met ons op voor informatie. We helpen je met het
-          uitkiezen van de cursus die bij jou past.
+          Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
+          meer Hetty, soms wat meer Anna. Met elkaar bepalen we wat voor jou het
+          beste zal werken. Neem gerust contact met ons op voor informatie. We
+          helpen je met het uitkiezen van de cursus die bij jou past.
         </p>
 
         <div className="image-container">
-        <img src={ink} width="200px" alt="writing" />
+          <img src={ink} width="200px" alt="writing" />
         </div>
 
         <p>
-          <strong>1. Schrijven als ambacht </strong>
+          <h3><strong>1. Schrijven als ambacht </strong></h3>
           <br style={{ marginBottom: "5px" }} />
           Deze training is voor iedereen die van taal houdt! Wil je graag een
           verhaal op papier zetten? Of ben je nieuwsgierig naar je
@@ -74,7 +75,7 @@ export default function Information() {
         </p>
 
         <p>
-          <strong>2. Het persoonlijk verhaal</strong>
+          <h3><strong>2. Het persoonlijk verhaal</strong></h3>
           <br style={{ marginBottom: "5px" }} />
           Bij Het persoonlijk verhaal krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
@@ -97,7 +98,7 @@ export default function Information() {
         </p>
 
         <p>
-          <strong>3. Schrijftherapie en empowerment</strong>
+          <h3><strong>3. Schrijftherapie en empowerment</strong></h3>
           <br style={{ marginBottom: "5px" }} />
           Ontdek de kracht van schrijven als middel tot verwerking en
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het

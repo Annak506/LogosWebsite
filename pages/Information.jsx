@@ -10,21 +10,26 @@ export default function Information() {
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.
-          <br /> <span className="bullet-point">•</span> Wil je vooral de
-          ambachtelijke kant van het schrijversvak leren? Dan is{" "}
+          <br style={{ marginBottom: "5px" }} />c
+          <span className="bullet-point">•</span> Wil je vooral de ambachtelijke
+          kant van het schrijversvak leren? Dan is{" "}
           <strong>‘Schrijven als ambacht’ </strong>
           iets voor jou. <br />
           <span className="bullet-point">•</span> Verwacht je dat hetgeen je
           schrijft veel emoties op zal roepen, bijvoorbeeld omdat je jouw
-          levensverhaal of familiegeschiedenis wil schrijven? Denk dan eens 
-          <span className="indent"> aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>. </span> 
+          levensverhaal of familiegeschiedenis wil schrijven? Denk dan eens
+          <span className="indent">
+            {" "}
+            aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.{" "}
+          </span>
           <span className="bullet-point">•</span> Wil je vooral graag schrijven
           om te verwerken of te groeien, kijk dan naar de cursus{" "}
-          <strong>‘Schrijftherapie en empowerment’</strong>.<br /> Bij alle
-          cursussen krijg je begeleiding van Hetty en Anna; soms wat meer Hetty,
-          soms wat meer Anna. Met elkaar bepalen we wat voor jou het beste zal
-          werken. Neem gerust contact met ons op voor informatie. We helpen je
-          met het uitkiezen van de cursus die bij jou past.
+          <strong>‘Schrijftherapie en empowerment’</strong>.
+          <br style={{ marginBottom: "5px" }} /> {" "} Bij alle cursussen krijg je
+          begeleiding van Hetty en Anna; soms wat meer Hetty, soms wat meer
+          Anna. Met elkaar bepalen we wat voor jou het beste zal werken. Neem
+          gerust contact met ons op voor informatie. We helpen je met het
+          uitkiezen van de cursus die bij jou past.
         </p>
 
         <p>

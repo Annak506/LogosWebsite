@@ -188,3 +188,7 @@ h4{
 .with-border{
     border: 3.5px solid #FFCC8D;
 }
+
+.with-image-border{
+    border: 3.5 px solid rgb(243, 171, 104);
+}

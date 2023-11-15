@@ -7,8 +7,8 @@ import { Link } from "react-router-dom"
 export default function About() {
     return (
       <div className="about-page-container">
-        <img src={hettyImage} className="about-hetty-image with-border" />
-        <img src={annaImage} className="about-anna-image with-border" />
+        <img src={hettyImage} className="about-hetty-image with-image-border" />
+        <img src={annaImage} className="about-anna-image with-image-border" />
         <div className="about-page-content">
           <h2>Over ons</h2>
           <p>

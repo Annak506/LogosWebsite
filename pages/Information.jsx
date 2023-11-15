@@ -75,7 +75,7 @@ export default function Information() {
         <p>
           <strong>2. Het persoonlijk verhaal</strong>
           <br style={{ marginBottom: "5px" }} />
-          Bij Het persoonlijk verhaal krijg je de kans om niet alleen beter te
+          Bij 'het persoonlijk verhaal' krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
           verwerken. Of je nu je autobiografie wilt schrijven of je
           familieverhaal wilt delen, we begrijpen dat schrijven soms heftige

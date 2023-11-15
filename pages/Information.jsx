@@ -25,7 +25,7 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-          <img src={sheWritesImage} alt="Hands" />
+          <img src={sheWritesImage} alt="Hands" width = "400px" />
         </div>
 
         <p>

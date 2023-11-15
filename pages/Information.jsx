@@ -33,6 +33,7 @@ export default function Information() {
           bij je past? In deze toegankelijke cursus ga je aan de slag met het
           ontwikkelen van je schrijfvaardigheden.
         </p>
+
         <details>
           <summary>Lees meer</summary>
           <p>
@@ -67,6 +68,8 @@ export default function Information() {
           verwerken. Of je nu je autobiografie wilt schrijven of je
           familieverhaal wilt delen, we begrijpen dat schrijven soms heftige
           emoties kan oproepen.
+          </p>
+        
           <details>
             <summary>Lees meer</summary>
             <p>
@@ -83,7 +86,6 @@ export default function Information() {
               <br style={{ marginBottom: "5px" }} />
             </p>
           </details>
-        </p>
 
         <p>
           <strong>3. Schrijftherapie en empowerment</strong>
@@ -92,6 +94,8 @@ export default function Information() {
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het
           gebruik van schrijven als therapeutisch instrument, waarbij het
           schrijven zelf niet het doel is, maar het middel.
+          </p>
+
           <details>
             <summary>Lees meer</summary>
             <p>
@@ -102,7 +106,7 @@ export default function Information() {
               schrijven van teksten.
             </p>
           </details>
-        </p>
+      
       </div>
       <div className="about-page-cta">
         <h2>

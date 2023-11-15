@@ -6,13 +6,9 @@ import { Link } from "react-router-dom"
 
 export default function About() {
     return (
-     <div>
-        <div className = "picturesAH">
+      <div className="about-page-container">
         <img src={hettyImage} className="about-hetty-image" />
-        <img src={annaImage} className="about-anna-image" />
-        </div>
-
-         <div className="about-page-container">
+        <img src={annaImage} className="about-anna-image" />       
         <div className="about-page-content">
           <h2>Over ons</h2>
           <p>
@@ -49,6 +45,6 @@ export default function About() {
           </Link>
         </div>
       </div>
-      </div>
+      
     );
 }

@@ -65,29 +65,43 @@ export default function Information() {
           schrijven, maar ook om diepgaande emoties te verkennen en te
           verwerken. Of je nu je autobiografie wilt schrijven of je
           familieverhaal wilt delen, we begrijpen dat schrijven soms heftige
-          emoties kan oproepen. Naast het aanleren van ambachtelijke
-          schrijftechnieken, bieden we daarom ook ondersteuning bij het
-          verwerken van de emoties die het schrijven bij je oproept. Onze coach
-          biedt ondersteuning en treedt op als klankbord. Ze kan je helpen
-          nieuwe ideeën en inzichten te ontdekken door vragen te stellen en kan
-          je begeleiden bij het omgaan met onder andere faalangst, onzekerheid
-          en andere gevoelens die het schrijfproces teweeg kunnen brengen, zoals
-          verdriet, vreugde, angst, frustratie, verwarring, nostalgie en hoop.
-          Ons uitgangspunt bij deze cursus is:
-          <em>“True stories, well told”</em> .
+          emoties kan oproepen.
+          <details>
+            <summary>Lees meer</summary>
+            <p>
+              Naast het aanleren van ambachtelijke schrijftechnieken, bieden we
+              daarom ook ondersteuning bij het verwerken van de emoties die het
+              schrijven bij je oproept. Onze coach biedt ondersteuning en treedt
+              op als klankbord. Ze kan je helpen nieuwe ideeën en inzichten te
+              ontdekken door vragen te stellen en kan je begeleiden bij het
+              omgaan met onder andere faalangst, onzekerheid en andere gevoelens
+              die het schrijfproces teweeg kunnen brengen, zoals verdriet,
+              vreugde, angst, frustratie, verwarring, nostalgie en hoop. Ons
+              uitgangspunt bij deze cursus is:{" "}
+              <em>“True stories, well told”</em>.
+            </p>
+          </details>
         </p>
+
         <p>
-          <strong> 3. Schrijftherapie en empowerment </strong>
+          <strong>3. Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
           Ontdek de kracht van schrijven als middel tot verwerking en
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het
           gebruik van schrijven als therapeutisch instrument, waarbij het
-          schrijven zelf niet het doel is, maar het middel. Logos hanteert een
-          socratische therapievorm, waarbij de coach geen kant-en-klare adviezen
-          geeft, maar juist vragen stelt om jouw eigen inzichten en antwoorden
-          naar boven te laten komen. Je kunt vertrouwen op jouw ervaringskennis,
-          als waardevolle bron bij het schrijven van teksten.
+          schrijven zelf niet het doel is, maar het middel.
+          <details>
+            <summary>Lees meer</summary>
+            <p>
+              Logos hanteert een socratische therapievorm, waarbij de coach geen
+              kant-en-klare adviezen geeft, maar juist vragen stelt om jouw
+              eigen inzichten en antwoorden naar boven te laten komen. Je kunt
+              vertrouwen op jouw ervaringskennis, als waardevolle bron bij het
+              schrijven van teksten.
+            </p>
+          </details>
         </p>
+        
       </div>
       <div className="about-page-cta">
         <h2>

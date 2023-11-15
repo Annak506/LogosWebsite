@@ -7,9 +7,9 @@ export default function Information() {
   return (
     <div className="about-page-container">
       <div className="about-page-content">
-        <h3>
+        <h2>
            Een keuze uit diverse online cursussen 
-        </h3>
+        </h2>
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.

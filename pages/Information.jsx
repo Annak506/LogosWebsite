@@ -23,6 +23,15 @@ export default function Information() {
           met het uitkiezen van de cursus die bij jou past.
         </p>
 
+        <p>
+          <strong>1. Schrijven als ambacht </strong>
+          <br style={{ marginBottom: "5px" }} />
+          Deze training is voor iedereen die van taal houdt! Wil je graag een
+          verhaal op papier zetten? Of ben je nieuwsgierig naar je
+          schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
+          bij je past? In deze toegankelijke cursus ga je aan de slag met het
+          ontwikkelen van je schrijfvaardigheden.
+        </p>
         <details>
           <summary>Lees meer</summary>
           <p>
@@ -48,7 +57,6 @@ export default function Information() {
             ambacht’.
           </p>
         </details>
-        
 
         <p>
           <strong>2. Het persoonlijk verhaal</strong>

@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import sheWritesImage from "../assets/images/sheWrites.jpg";
+import ink from "../assets/images/ink.jpg";
 
 export default function Information() {
   return (
@@ -34,6 +35,10 @@ export default function Information() {
           gerust contact met ons op voor informatie. We helpen je met het
           uitkiezen van de cursus die bij jou past.
         </p>
+
+        <div className="image-container">
+           <img src={ink} />
+        </div>
 
         <p>
           <strong>1. Schrijven als ambacht </strong>

@@ -46,6 +46,10 @@ header a:hover {
     text-decoration: underline;
 }
 
+details{
+    margin-top: 0px;
+}
+
 .link-button {
     display: inline-block;
     text-align: center;
@@ -140,6 +144,7 @@ header a:hover {
     padding-bottom: 32px;
     margin-inline: 27px;
     border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 .about-page-cta h2 {

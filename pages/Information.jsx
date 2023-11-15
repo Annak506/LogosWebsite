@@ -23,6 +23,8 @@ export default function Information() {
           met het uitkiezen van de cursus die bij jou past.
         </p>
 
+        <img src="assets\images\hands.jpg" width = "200px" margin = "auto auto"/>
+
         <p>
           <strong>1. Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -101,7 +103,7 @@ export default function Information() {
             </p>
           </details>
         </p>
-        
+
       </div>
       <div className="about-page-cta">
         <h2>

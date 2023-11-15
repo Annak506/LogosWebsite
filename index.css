@@ -172,3 +172,7 @@ details{
 .bullet-point {
   margin-left: 20px; 
 }
+
+.indent{
+    margin-left: 40px;
+}

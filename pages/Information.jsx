@@ -30,7 +30,7 @@ export default function Information() {
           </span>
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
-          meer Hetty, soms wat meer Anna. Met elkaar bepalen we wat voor jou het
+          meer Hetty, soms wat meer Anna. Samen met jou bepalen we wat voor jou het
           beste zal werken. Neem gerust contact met ons op voor informatie. We
           helpen je met het uitkiezen van de cursus die bij jou past.
         </p>

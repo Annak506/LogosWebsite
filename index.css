@@ -187,7 +187,11 @@ h4{
 @media (min-width: 600px) {
     .picturesAH{
         flex-direction: row;
-    
+    }
+
+    .about-hetty-image,
+    .about-anna-image {
+        width: auto; 
     }
 }
 

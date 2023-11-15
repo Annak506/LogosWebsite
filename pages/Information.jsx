@@ -114,7 +114,7 @@ export default function Information() {
       </div>
       <div className="about-page-cta">
         <h2 style={{ paddingBottom: 0 }}>
-          <strong>Praktische informatie: </strong> Prijs: 10 lessen 595 euro
+          <strong>Praktische informatie - </strong> prijs: 10 lessen 595 euro
         </h2>
         <h3>
           Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen

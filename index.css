@@ -6,7 +6,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #FFF7ED;
-    font-family: 'Barlow', sans-serif, 'Inter', sans-serif;
+    font-family: 'Alegreya', sans-serif,'Inter', sans-serif;
 }
 
 body::-webkit-scrollbar {

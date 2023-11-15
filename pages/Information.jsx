@@ -16,40 +16,40 @@ export default function Information() {
           familiegeschiedenis wil schrijven? Denk dan eens aan de cursus{" "}
           <strong> ‘Het persoonlijk verhaal’ </strong>. <br /> • Wil je vooral
           graag schrijven om te verwerken of te groeien, kijk dan naar de cursus{" "}
-          <strong>‘Schrijftherapie en empowerment’</strong>.<br /> Bij alle cursussen
-          krijg je begeleiding van Hetty en Anna; soms wat meer Hetty, soms wat
-          meer Anna. Met elkaar bepalen we wat voor jou het beste zal werken.
-          Neem gerust contact met ons op voor informatie. We helpen je met het
-          uitkiezen van de cursus die bij jou past.
+          <strong>‘Schrijftherapie en empowerment’</strong>.<br /> Bij alle
+          cursussen krijg je begeleiding van Hetty en Anna; soms wat meer Hetty,
+          soms wat meer Anna. Met elkaar bepalen we wat voor jou het beste zal
+          werken. Neem gerust contact met ons op voor informatie. We helpen je
+          met het uitkiezen van de cursus die bij jou past.
         </p>
-        <p>
-          <strong>1. Schrijven als ambacht </strong>
-          <br style={{ marginBottom: "5px" }} />
-          Deze training is voor iedereen die van taal houdt! Wil je graag een
-          verhaal op papier zetten? Of ben je nieuwsgierig naar je
-          schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
-          bij je past? In deze toegankelijke cursus ga je aan de slag met het
-          ontwikkelen van je schrijfvaardigheden. Theoretische kennis wordt
-          gecombineerd met praktische schrijfopdrachten, waarbij onderwerpen
-          zoals personageopbouw, structuur, tijd- en tijdsverloop,
-          vertelperspectief en dialogen behandeld worden. Deze training is
-          ideaal als je het plezier in schrijven wilt ontdekken en je eigen
-          unieke schrijfstijl wilt ontwikkelen. Tijdens elke bijeenkomst worden
-          inspirerende oefeningen geboden, en wordt jouw geschreven werk
-          besproken. Tevens is er de mogelijkheid om naast het schrijven van
-          verhalen te experimenteren met dialogen, monologen, gedichten,
-          liedteksten, scenarioschrijven en/of strips. Hoewel de nadruk
-          voornamelijk ligt op het ambachtelijke aspect van schrijven, kan naast
-          de begeleiding van de schrijfdocent, gesprekken met de coach van
-          toegevoegde waarde zijn. Zij biedt ondersteuning bij verschillende
-          vraagstukken, zoals het overwinnen van een writers block, het stellen
-          van prioriteiten en het creëren van een schrijfplanning. Daarnaast
-          biedt ze verdiepende gesprekken om nieuwe onderwerpen te verkennen en
-          helpt ze je om je innerlijke saboteur uit te schakelen. Samen zullen
-          we je schrijfvaardigheden naar een hoger niveau brengen. Ontdek je
-          schrijftalent en schrijf je in voor onze training ‘Schrijven als
-          ambacht’.
-        </p>
+
+        <details>
+          <summary>Lees meer</summary>
+          <p>
+            Theoretische kennis wordt gecombineerd met praktische
+            schrijfopdrachten, waarbij onderwerpen zoals personageopbouw,
+            structuur, tijd- en tijdsverloop, vertelperspectief en dialogen
+            behandeld worden. Deze training is ideaal als je het plezier in
+            schrijven wilt ontdekken en je eigen unieke schrijfstijl wilt
+            ontwikkelen. Tijdens elke bijeenkomst worden inspirerende oefeningen
+            geboden, en wordt jouw geschreven werk besproken. Tevens is er de
+            mogelijkheid om naast het schrijven van verhalen te experimenteren
+            met dialogen, monologen, gedichten, liedteksten, scenarioschrijven
+            en/of strips. Hoewel de nadruk voornamelijk ligt op het
+            ambachtelijke aspect van schrijven, kan naast de begeleiding van de
+            schrijfdocent, gesprekken met de coach van toegevoegde waarde zijn.
+            Zij biedt ondersteuning bij verschillende vraagstukken, zoals het
+            overwinnen van een writers block, het stellen van prioriteiten en
+            het creëren van een schrijfplanning. Daarnaast biedt ze verdiepende
+            gesprekken om nieuwe onderwerpen te verkennen en helpt ze je om je
+            innerlijke saboteur uit te schakelen. Samen zullen we je
+            schrijfvaardigheden naar een hoger niveau brengen. Ontdek je
+            schrijftalent en schrijf je in voor onze training ‘Schrijven als
+            ambacht’.
+          </p>
+        </details>
+        
+
         <p>
           <strong>2. Het persoonlijk verhaal</strong>
           <br style={{ marginBottom: "5px" }} />

@@ -24,10 +24,6 @@ export default function Information() {
           met het uitkiezen van de cursus die bij jou past.
         </p>
 
-        <div className="image-container">
-          <img src={sheWritesImage} alt="Hands" width="1100px" height="600px" />
-        </div>
-
         <p>
           <strong>1. Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />

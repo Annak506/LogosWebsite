@@ -5,6 +5,11 @@ import annaImage from "../assets/images/anna.jpg";
 import { Link } from "react-router-dom"
 
 export default function About() {
+
+  const scrollToTop = () => {
+    window.scrollTo(0, 0);
+  };
+
     return (
       <div className="about-page-container">
         <img src={hettyImage} className="about-hetty-image with-image-border" />
@@ -14,15 +19,14 @@ export default function About() {
           <p>
             Achter Logos Schrijven & Coaching schuilt een duo dat zich richt op
             het bevorderen van welzijn door middel van schrijven.{" "}
-              <strong> Hetty Kleinloog </strong> (1958) met meer dan 15 jaar
-              ervaring als schrijver en schrijfdocent bij o.a. de
-              Schrijversacademie, de Volksuniversiteit en diverse
-              (theater)opleidingen, heeft vanuit haar rol als begeleider van
-              talloze cursisten kunnen ervaren dat creatief schijven iets is dat
-              iedereen kan leren. In de schrijfbegeleiding die zij geeft richt
-              zij zich op de ambachtelijke kant van het schrijversvak en
-              ondersteunt zij de cursisten in het vormgeven van verhalen die
-              raken.
+            <strong> Hetty Kleinloog </strong> (1958) met meer dan 15 jaar
+            ervaring als schrijver en schrijfdocent bij o.a. de
+            Schrijversacademie, de Volksuniversiteit en diverse
+            (theater)opleidingen, heeft vanuit haar rol als begeleider van
+            talloze cursisten kunnen ervaren dat creatief schijven iets is dat
+            iedereen kan leren. In de schrijfbegeleiding die zij geeft richt zij
+            zich op de ambachtelijke kant van het schrijversvak en ondersteunt
+            zij de cursisten in het vormgeven van verhalen die raken.
           </p>
           <p>
             Naast Hetty staat <strong> Anna Kleinloog </strong> (1993), opgeleid
@@ -41,7 +45,7 @@ export default function About() {
             We bieden een breed scala aan individuele en op maat gemaakte online
             schrijfcursussen.
           </h2>
-          <Link className="link-button" to="/information">
+          <Link className="link-button" to="/information" onClick={scrollToTop}>
             Vind jouw cursus
           </Link>
         </div>

@@ -23,7 +23,6 @@ export default function Information() {
             bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil
             schrijven? Denk dan eens aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.
           </span>
-           <br style={{ marginBottom: "5px" }} />
           <span className="bullet-point">
             • Wil je vooral graag schrijven om te verwerken of te groeien, kijk
             dan naar de cursus

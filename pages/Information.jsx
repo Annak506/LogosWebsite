@@ -32,11 +32,8 @@ export default function Information() {
           schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
           bij je past? In deze toegankelijke cursus ga je aan de slag met het
           ontwikkelen van je schrijfvaardigheden.
-        </p>
-
-        <details>
-          <summary>Lees meer</summary>
-          <p>
+          <details>
+            <summary>Lees meer</summary>
             Theoretische kennis wordt gecombineerd met praktische
             schrijfopdrachten, waarbij onderwerpen zoals personageopbouw,
             structuur, tijd- en tijdsverloop, vertelperspectief en dialogen
@@ -57,8 +54,8 @@ export default function Information() {
             schrijfvaardigheden naar een hoger niveau brengen. Ontdek je
             schrijftalent en schrijf je in voor onze training ‘Schrijven als
             ambacht’.
-          </p>
-        </details>
+          </details>
+        </p>
 
         <p>
           <strong>2. Het persoonlijk verhaal</strong>
@@ -68,24 +65,20 @@ export default function Information() {
           verwerken. Of je nu je autobiografie wilt schrijven of je
           familieverhaal wilt delen, we begrijpen dat schrijven soms heftige
           emoties kan oproepen.
-          </p>
-        
           <details>
             <summary>Lees meer</summary>
-            <p>
-              Naast het aanleren van ambachtelijke schrijftechnieken, bieden we
-              daarom ook ondersteuning bij het verwerken van de emoties die het
-              schrijven bij je oproept. Onze coach biedt ondersteuning en treedt
-              op als klankbord. Ze kan je helpen nieuwe ideeën en inzichten te
-              ontdekken door vragen te stellen en kan je begeleiden bij het
-              omgaan met onder andere faalangst, onzekerheid en andere gevoelens
-              die het schrijfproces teweeg kunnen brengen, zoals verdriet,
-              vreugde, angst, frustratie, verwarring, nostalgie en hoop. Ons
-              uitgangspunt bij deze cursus is:{" "}
-              <em>“True stories, well told”</em>.
-              <br style={{ marginBottom: "5px" }} />
-            </p>
+            Naast het aanleren van ambachtelijke schrijftechnieken, bieden we
+            daarom ook ondersteuning bij het verwerken van de emoties die het
+            schrijven bij je oproept. Onze coach biedt ondersteuning en treedt
+            op als klankbord. Ze kan je helpen nieuwe ideeën en inzichten te
+            ontdekken door vragen te stellen en kan je begeleiden bij het omgaan
+            met onder andere faalangst, onzekerheid en andere gevoelens die het
+            schrijfproces teweeg kunnen brengen, zoals verdriet, vreugde, angst,
+            frustratie, verwarring, nostalgie en hoop. Ons uitgangspunt bij deze
+            cursus is: <em>“True stories, well told”</em>.
+            <br style={{ marginBottom: "5px" }} />
           </details>
+        </p>
 
         <p>
           <strong>3. Schrijftherapie en empowerment</strong>
@@ -94,19 +87,16 @@ export default function Information() {
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het
           gebruik van schrijven als therapeutisch instrument, waarbij het
           schrijven zelf niet het doel is, maar het middel.
-          </p>
-
           <details>
             <summary>Lees meer</summary>
-            <p>
-              Logos hanteert een socratische therapievorm, waarbij de coach geen
-              kant-en-klare adviezen geeft, maar juist vragen stelt om jouw
-              eigen inzichten en antwoorden naar boven te laten komen. Je kunt
-              vertrouwen op jouw ervaringskennis, als waardevolle bron bij het
-              schrijven van teksten.
-            </p>
+            Logos hanteert een socratische therapievorm, waarbij de coach geen
+            kant-en-klare adviezen geeft, maar juist vragen stelt om jouw eigen
+            inzichten en antwoorden naar boven te laten komen. Je kunt
+            vertrouwen op jouw ervaringskennis, als waardevolle bron bij het
+            schrijven van teksten.
           </details>
-      
+        </p>
+        
       </div>
       <div className="about-page-cta">
         <h2>

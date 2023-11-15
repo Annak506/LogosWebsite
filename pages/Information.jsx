@@ -7,9 +7,9 @@ export default function Information() {
   return (
     <div className="about-page-container">
       <div className="about-page-content">
-        <h2>
+        <h3>
            Een keuze uit diverse online cursussen 
-        </h2>
+        </h3>
         <p>
           We bieden een breed scala aan individuele en op maat gemaakte
           schrijfcursussen.
@@ -42,7 +42,7 @@ export default function Information() {
         </div>
 
         <p>
-          <h4><strong>1. Schrijven als ambacht </strong></h4>
+          <strong>1. Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />
           Deze training is voor iedereen die van taal houdt! Wil je graag een
           verhaal op papier zetten? Of ben je nieuwsgierig naar je
@@ -75,7 +75,7 @@ export default function Information() {
         </p>
 
         <p>
-          <h4><strong>2. Het persoonlijk verhaal</strong></h4>
+          <strong>2. Het persoonlijk verhaal</strong>
           <br style={{ marginBottom: "5px" }} />
           Bij Het persoonlijk verhaal krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
@@ -98,7 +98,7 @@ export default function Information() {
         </p>
 
         <p>
-          <h4><strong>3. Schrijftherapie en empowerment</strong></h4>
+          <strong>3. Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
           Ontdek de kracht van schrijven als middel tot verwerking en
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het

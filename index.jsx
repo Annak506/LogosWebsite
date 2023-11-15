@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <header>
-        <Link className="site-logo" to="/"> <img src={inkBottle} width = "40px" style={{ marginTop: "15px" }} /> Logos </Link>
+        <Link className="site-logo" to="/"> <img src={inkBottle} width = "25px" style={{ marginTop: "15px" }} /> Logos </Link>
         <nav>
           <Link to="/about">Over ons</Link>
         </nav>

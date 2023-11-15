@@ -204,7 +204,7 @@ h4{
 .team-member {
     
 @media only screen and (max-width: 600px) {
-    .team-member {
+    .about-page-content .team-member {
         display: block !important; 
     }
 }

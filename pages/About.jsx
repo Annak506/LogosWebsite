@@ -6,11 +6,13 @@ import { Link } from "react-router-dom"
 
 export default function About() {
     return (
-      <div className="about-page-container">
+     <div>
         <div className = "picturesAH">
         <img src={hettyImage} className="about-hetty-image" />
         <img src={annaImage} className="about-anna-image" />
         </div>
+
+         <div className="about-page-container">
         <div className="about-page-content">
           <h2>Over ons</h2>
           <p>
@@ -46,6 +48,7 @@ export default function About() {
             Vind jouw cursus
           </Link>
         </div>
+      </div>
       </div>
     );
 }

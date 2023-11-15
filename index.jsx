@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 import Home from "./pages/Home"
 import About from "./pages/About"
 import Information from "./pages/Information"
-import drawingPen from "../assets/images/drawingPen.png";
+import drawingPen from "./assets/images/drawingPen.png";
 
 
 function App() {

@@ -23,7 +23,6 @@ export default function Information() {
             bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil
             schrijven? Denk dan eens
             <span className="indent">
-              {" "}
               aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.
             </span>
           </span>

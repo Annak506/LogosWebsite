@@ -17,7 +17,7 @@ export default function Information() {
           <span className="bullet-point">•</span> Verwacht je dat hetgeen je
           schrijft veel emoties op zal roepen, bijvoorbeeld omdat je jouw
           levensverhaal of familiegeschiedenis wil schrijven? Denk dan eens 
-          <span className="indent"> aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>. </span> <br />{" "}
+          <span className="indent"> aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>. </span> 
           <span className="bullet-point">•</span> Wil je vooral graag schrijven
           om te verwerken of te groeien, kijk dan naar de cursus{" "}
           <strong>‘Schrijftherapie en empowerment’</strong>.<br /> Bij alle

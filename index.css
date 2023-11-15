@@ -25,6 +25,7 @@ header {
     display: flex;
     align-items: center;
     padding-block: 10px;
+    margin-right: 10px;
 }
 
 header .site-logo {

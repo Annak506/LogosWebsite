@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <header>
-        <Link className="site-logo" to="/"> #Logos </Link>
+        <Link className="site-logo" to="/"> <strong>#Logos</strong> </Link>
         <nav>
           <Link to="/about">Over ons</Link>
         </nav>
@@ -22,7 +22,7 @@ function App() {
         <Route path="/information" element={<Information />} />
       </Routes>
     </BrowserRouter>
-  )
+  );
 }
 
 ReactDOM

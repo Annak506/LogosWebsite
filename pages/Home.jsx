@@ -5,7 +5,7 @@ export default function Home() {
   useEffect(() => {
     document.body.style.backgroundColor = "rgb(234, 197, 150)";
     return () => {
-      document.body.style.backgroundColor = "#FFF7ED";
+      document.body.style.backgroundColor = "#FFF7ED"; 
     };
   }, []);
 

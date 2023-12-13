@@ -236,3 +236,25 @@ nav {
   padding-left: 55px;
   padding-right: 55px;
 }
+
+@media only screen and (max-width: 600px) {
+  .alcohol-blog {
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 10px; 
+    padding-bottom: 30px; 
+  }
+
+  .alcohol-letter {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+  }
+
+  .alcohol-letter em br {
+    content: "\00a0"; 
+    display: block;
+    margin-bottom: 10px; 
+  }
+}

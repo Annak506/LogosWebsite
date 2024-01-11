@@ -21,18 +21,19 @@ export default function Information() {
           <span className="bullet-point">
             • Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
             bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil
-            schrijven? Denk dan eens aan de cursus <strong> ‘Het persoonlijk verhaal'</strong>.
+            schrijven? Denk dan eens aan de cursus{" "}
+            <strong> ‘Het persoonlijk verhaal'</strong>.
           </span>
           <span className="bullet-point">
             • Wil je vooral graag schrijven om te verwerken of te groeien, kijk
-            dan naar de cursus 
+            dan naar de cursus
             <strong> ‘Schrijftherapie en empowerment’</strong>.
           </span>
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
-          meer Hetty, soms wat meer Anna. Samen met jou bepalen we wat voor jou het
-          beste zal werken. Neem gerust contact met ons op voor informatie. We
-          helpen je met het uitkiezen van de cursus die bij jou past.
+          meer Hetty, soms wat meer Anna. Samen met jou bepalen we wat voor jou
+          het beste zal werken. Neem gerust contact met ons op voor informatie.
+          We helpen je met het uitkiezen van de cursus die bij jou past.
         </p>
 
         <div className="image-container">
@@ -114,7 +115,8 @@ export default function Information() {
       </div>
       <div className="about-page-cta">
         <h2 style={{ paddingBottom: 0 }}>
-          <strong>Praktische informatie - </strong> prijs: 10 lessen 595 euro
+          <strong>Praktische informatie - </strong> prijsopgave:
+          logos@kleinloog.eu
         </h2>
         <h3>
           Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen
@@ -125,4 +127,3 @@ export default function Information() {
     </div>
   );
 }
-    

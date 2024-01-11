@@ -115,15 +115,17 @@ export default function Information() {
       </div>
       <div className="about-page-cta">
         <h2 style={{ paddingBottom: 0 }}>
-          <strong>Praktische informatie - </strong> prijsopgave:
-          logos@kleinloog.eu
+          <strong>Praktische informatie </strong>
         </h2>
-        <h3>
-          Voor vragen en aanmelden, schrijf naar: logos@kleinloog.eu en we nemen
-          snel contact met je op.
-        </h3>
+        <h3>Prijsopgave: logos@kleinloog.eu</h3>
+        <h4 class="vragen">
+          Voor vragen en aanmelden, email ons en we nemen snel contact met je
+          op.
+        </h4>
         <h4> Tot ziens bij Logos! Anna en Hetty </h4>
       </div>
     </div>
   );
+}
+    
 }

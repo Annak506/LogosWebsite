@@ -37,7 +37,7 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-          <img src={ink} width="200px" alt="writing" />
+          <img src={ink} width="200px" alt="Hand die schrijft, symboliseert creativiteit en schrijfcursussen bij Logos Schrijven en Coaching." />
         </div>
 
         <p>

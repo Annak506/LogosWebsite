@@ -17,7 +17,7 @@ export default function Home() {
         Het is het vertellen van een verhaal, een uitlaatklep, een instrument
         voor introspectie, en een manier om emoties te onthullen en verwerken.
       </p>
-      <Link to="information" title="Ontdek onze diverse schrijfcursussen en coachingstrajecten">
+      <Link to="information" title="Ontdek onze diverse schrijfcursussen en coachingstrajecten, online en in Amsterdam">
         Vind jouw cursus
       </Link>
     </div>

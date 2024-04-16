@@ -47,13 +47,24 @@ export default function About() {
             krachtig middel zijn om emoties te uiten, trauma’s te verwerken en
             een nieuw perspectief op het leven te creëren.
           </p>
+          <p>
+            <strong>Contactgegevens </strong> </p>
+            <p>
+            E-mail: logos@kleinloog.eu 
+            [◉°] schrijvenencoaching
+          </p>
         </div>
         <div className="about-page-cta">
           <h2>
             We bieden een breed scala aan individuele en op maat gemaakte online
             schrijfcursussen.
           </h2>
-          <Link className="link-button" to="/information" onClick={scrollToTop} title="Ontdek ons aanbod van individuele en op maat gemaakte online schrijfcursussen en coachingstrajecten">
+          <Link
+            className="link-button"
+            to="/information"
+            onClick={scrollToTop}
+            title="Ontdek ons aanbod van individuele en op maat gemaakte online schrijfcursussen en coachingstrajecten"
+          >
             Vind jouw cursus
           </Link>
         </div>

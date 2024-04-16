@@ -48,8 +48,7 @@ export default function About() {
             een nieuw perspectief op het leven te creëren.
           </p>
           <p>
-            <strong>Contactgegevens </strong> </p>
-            <p>
+            <strong>Contactgegevens </strong>
             E-mail: logos@kleinloog.eu 
             [◉°] schrijvenencoaching
           </p>

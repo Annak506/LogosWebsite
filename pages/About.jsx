@@ -53,7 +53,7 @@ export default function About() {
             <br></br>
             E-mail: logos@kleinloog.eu<br></br>
             [◉°] schrijvenencoaching</p>
-          <div class="contact-info"></div>
+         </div>
         </div>
         <div className="about-page-cta">
           <h2>

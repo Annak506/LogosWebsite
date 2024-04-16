@@ -128,7 +128,7 @@ export default function Information() {
         </h3>
         <h4 class="vragen">
           Voor vragen en aanmelden, email ons en we nemen snel contact met je
-          op.
+          op: logos@kleinloog.eu
         </h4>
         <h4> Tot ziens bij Logos! Anna en Hetty </h4>
       </div>

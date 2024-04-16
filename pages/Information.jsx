@@ -122,7 +122,7 @@ export default function Information() {
           <strong>Praktische informatie </strong>
         </h2>
         <h3>
-          Prijsopgave: Elke individuele cursus bestaat uit tien online
+          Elke individuele cursus bestaat uit tien online
           bijeenkomsten van een uur en kost 400 euro. Het is ook mogelijk om
           losse lessen te boeken voor 45 euro per les.
         </h3>

@@ -37,7 +37,11 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-          <img src={ink} width="200px" alt="Hand die schrijft, symboliseert creativiteit en schrijfcursussen bij Logos Schrijven en Coaching." />
+          <img
+            src={ink}
+            width="200px"
+            alt="Hand die schrijft, symboliseert creativiteit en schrijfcursussen bij Logos Schrijven en Coaching."
+          />
         </div>
 
         <p>
@@ -117,7 +121,11 @@ export default function Information() {
         <h2 style={{ paddingBottom: 0 }}>
           <strong>Praktische informatie </strong>
         </h2>
-        <h3>Prijsopgave: logos@kleinloog.eu</h3>
+        <h3>
+          Prijsopgave: Elke individuele cursus bestaat uit tien online
+          bijeenkomsten van een uur en kost 400 euro. Het is ook mogelijk om
+          losse lessen te boeken voor 45 euro per les.
+        </h3>
         <h4 class="vragen">
           Voor vragen en aanmelden, email ons en we nemen snel contact met je
           op.

@@ -31,7 +31,7 @@ export default function About() {
             ervaring als schrijver en schrijfdocent bij o.a. de
             Schrijversacademie, de Volksuniversiteit en diverse
             (theater)opleidingen, heeft vanuit haar rol als begeleider van
-            talloze cursisten kunnen ervaren dat creatief schijven iets is dat
+            talloze cursisten kunnen ervaren dat creatief schrijven iets is dat
             iedereen kan leren. In de schrijfbegeleiding die zij geeft richt zij
             zich op de ambachtelijke kant van het schrijversvak en ondersteunt
             zij de cursisten in het vormgeven van verhalen die raken.

@@ -27,8 +27,8 @@ export default function About() {
           <p>
             Achter Logos Schrijven & Coaching schuilt een duo dat zich richt op
             het bevorderen van welzijn door middel van schrijven.{" "}
-            <strong> Hetty Kleinloog </strong> (1958) met meer dan 15 jaar
-            ervaring als schrijver en schrijfdocent bij o.a. de
+            <strong> Hetty Kleinloog </strong> (1958) met meer dan 25 jaar
+            ervaring als auteur en schrijfdocent bij o.a. de
             Schrijversacademie, de Volksuniversiteit en diverse
             (theater)opleidingen, heeft vanuit haar rol als begeleider van
             talloze cursisten kunnen ervaren dat creatief schrijven iets is dat

@@ -47,12 +47,11 @@ export default function About() {
             krachtig middel zijn om emoties te uiten, trauma’s te verwerken en
             een nieuw perspectief op het leven te creëren.
           </p>
-          <div>
-            <p style="margin: 0;">
-              <strong>Contactgegevens </strong> E-mail: logos@kleinloog.eu
-            </p>
-            <p style="margin: 0;">[◉°] schrijvenencoaching</p>
-          </div>
+          <p>
+            <strong>Contactgegevens </strong>
+          </p>
+          <p>E-mail: logos@kleinloog.eu</p>
+          <p>[◉°] schrijvenencoaching</p>
         </div>
         <div className="about-page-cta">
           <h2>

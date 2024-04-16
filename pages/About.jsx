@@ -48,10 +48,13 @@ export default function About() {
             een nieuw perspectief op het leven te creëren.
           </p>
           <p>
-            <strong>Contactgegevens </strong>
-          <br></br>
-          E-mail: logos@kleinloog.eu<br></br>
-          [◉°] schrijvenencoaching</p>
+            <em>
+              Contactgegevens
+            </em>
+            <br></br>
+            E-mail: logos@kleinloog.eu<br></br>
+            [◉°] schrijvenencoaching
+          </p>
         </div>
         <div className="about-page-cta">
           <h2>

@@ -49,8 +49,8 @@ export default function About() {
           </p>
           <p>
             <strong>Contactgegevens </strong>
-          </p>
-          <p>E-mail: logos@kleinloog.eu</p>
+          <br></br>
+          E-mail: logos@kleinloog.eu</p>
           <p>[◉°] schrijvenencoaching</p>
         </div>
         <div className="about-page-cta">

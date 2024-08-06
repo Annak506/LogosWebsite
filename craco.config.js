@@ -1,11 +1,13 @@
-// craco.config.js
 const path = require('path');
 
 module.exports = {
   webpack: {
     configure: (webpackConfig) => {
-      // Set the output directory to `dist`
-      webpackConfig.output.path = path.resolve(__dirname, 'dist');
+      webpackConfig.output = {
+        ...webpackConfig.output,
+        path: path.resolve(__dirname, 'dist'),
+        publicPath: '/',
+      };
       return webpackConfig;
     },
   },

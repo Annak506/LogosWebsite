@@ -1,20 +1,17 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import Information from "./pages/Information"
-import inkBottle from "./assets/images/inkBottle.png";
-import Blogs from "./pages/Blogs";
-
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import Home from './pages/Home';
+import About from './pages/About';
+import Information from './pages/Information';
+import Blogs from './pages/Blogs';
+import './App.css';
 
 function App() {
   return (
     <BrowserRouter>
       <header>
         <Link className="site-logo" to="/">
-          {" "}
-          <strong>#Logos</strong>{" "}
+          <strong>#Logos</strong>
         </Link>
         <nav>
           <Link to="/about">Over ons</Link>
@@ -31,6 +28,4 @@ function App() {
   );
 }
 
-ReactDOM
-  .createRoot(document.getElementById('root'))
-  .render(<App />);
+export default App;

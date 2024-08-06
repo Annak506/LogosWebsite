@@ -1,6 +1,6 @@
 import React from "react"
-import hettyImage from "../assets/images/hetty.jpg";
-import annaImage from "../assets/images/anna.jpg";
+import hettyImage from "../images/hetty.jpg";
+import annaImage from "../images/anna.jpg";
 
 import { Link } from "react-router-dom"
 

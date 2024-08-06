@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <header>
         <Link className="site-logo" to="/">
-          <strong>#Logos</strong>
+          <strong>!Logos</strong>
         </Link>
         <nav>
           <Link to="/about">Over ons</Link>

@@ -365,3 +365,52 @@ nav {
 .pen{
   margin-bottom: 20px;
 }
+
+
+@media only screen and (max-width: 600px) {
+  /* Verklein de padding van de home-container */
+  .home-container {
+    padding: 20px 15px;  /* Verkleint padding rondom de container */
+  }
+
+  /* Verklein de padding van de quote-container */
+  .quote-container {
+    padding: 15px;
+  }
+
+  /* Verklein de padding van about-page-content */
+  .about-page-content {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  /* Verklein de padding en margins van about-page-cta */
+  .about-page-cta {
+    padding-inline: 20px;
+    padding-bottom: 20px;
+    margin-inline: 15px;
+    margin-bottom: 20px;
+  }
+
+  /* Verklein de padding van alcohol-blog en alcohol-letter */
+  .alcohol-blog {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .alcohol-letter {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+  }
+
+  /* Verklein de padding van .ambacht, .persoonlijk, en .schrijftherapie */
+  .ambacht,
+  .persoonlijk,
+  .schrijftherapie {
+    padding: 15px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+}

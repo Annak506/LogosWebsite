@@ -25,7 +25,7 @@ export default function Home() {
 
     <div className="quote-container">
       <div className="quote">  <p> De lessen hebben me zowel als schrijver en als persoon laten groeien. Mijn schrijfvaardigheden zijn naar een hoger niveau getild, terwijl het proces tegelijkertijd ruimte gaf voor zelfreflectie en persoonlijke groei. Een unieke combinatie van schrijfkunst en coaching. <p className="names"> - Joyce, 43, Gouda</p> </p> </div>
-     <div className = "quote"> <p> Ik kwam hier om beter te leren schrijven, maar vertrok met zoveel meer. De lessen hielpen me niet alleen om mijn schrijfstijl te verfijnen, maar ook om mijn innerlijke wereld te verkennen en te verwerken. Het was een plek waar techniek en therapie naadloos samenkwamen. Heel inspirerend! <p className="names"> - Annemette, 32, Sint-Maarten </p> </p> </div>
+     <div className = "quote"> <p> Ik kwam hier om beter te leren schrijven, maar vertrok met zoveel meer. De lessen hielpen me niet alleen om mijn schrijfstijl te verfijnen, maar ook om mijn innerlijke wereld te verkennen en te verwerken. Het was een plek waar techniek en therapie naadloos samenkwamen. Heel inspirerend! <p className="names"> - Annemette, 32, Bonaire </p> </p> </div>
     </div>
 
     </div>

@@ -14,18 +14,18 @@ export default function Information() {
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
           <span className="bullet-point">
-            ➤ Wil je vooral de ambachtelijke kant van het schrijversvak leren?
+          ✎ Wil je vooral de ambachtelijke kant van het schrijversvak leren?
             Dan is <strong>‘Schrijven als ambacht’ </strong>
             iets voor jou. <br />
           </span>
           <span className="bullet-point">
-          ➤  Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
+          ✎ Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
             bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil 
             schrijven? Denk dan eens aan de cursus{" "}
             <strong> ‘Het persoonlijk verhaal'</strong>.
           </span>
           <span className="bullet-point">
-          ➤ Wil je vooral graag schrijven om te verwerken of te groeien, kijk
+          ✎ Wil je vooral graag schrijven om te verwerken of te groeien, kijk
             dan naar de cursus
             <strong> ‘Schrijftherapie en empowerment’</strong>.
           </span>

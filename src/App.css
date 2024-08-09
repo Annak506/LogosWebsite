@@ -414,4 +414,16 @@ nav {
     margin-bottom: 10px;
     background-color: #ebf6f6;
   }
+
+  .bullet-point{
+    line-height: 22px;
+  }
+
+  .schrijftherapie strong {
+    line-height: 22px;
+}
+
+.about-page-cta{
+  border: 2px solid rgb(72, 69, 69);
+}
 }

@@ -86,8 +86,7 @@ export default function Information() {
           Bij 'het persoonlijk verhaal' krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
           verwerken. Of je nu je autobiografie wilt schrijven of je
-          familieverhaal wilt delen, we begrijpen dat schrijven soms heftige
-          emoties kan oproepen.
+          familieverhaal wilt delen, we begrijpen dat schrijven soms veel kan oproepen.
           <details>
             <summary>Lees meer</summary>
             Naast het aanleren van ambachtelijke schrijftechnieken, bieden we

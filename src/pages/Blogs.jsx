@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 export default function Blogs() {
   return (
-    <div class="alcohol-blog">
-      <h1 class="title-blog-alcohol"> Een afscheidsbrief aan alcohol </h1>
+    <div className="alcohol-blog">
+      <h1 className="title-blog-alcohol"> Een afscheidsbrief aan alcohol </h1>
       <p>
         Het pad naar verandering kan beginnen met een pen in de hand en een
         blanco vel papier voor je. Een aantal jaar geleden werkte ik als
@@ -53,11 +53,11 @@ export default function Blogs() {
         een middel voor groei, zelfexpressie en verandering.{" "}
       </p>
 
-      <div class="hr-container">
-        <hr class="custom-hr" />
+      <div className="hr-container">
+        <hr className="custom-hr" />
       </div>
 
-      <p class="alcohol-letter">
+      <p className="alcohol-letter">
         {" "}
         <em>
           --- Dear Alcohol, <br /> -a.k.a. tequila, gin, rum, beer, vodka,

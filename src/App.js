@@ -15,7 +15,7 @@ function App() {
         </Link>
         <nav>
           <Link to="/about">Over ons</Link>
-          <Link to="/blogs">Blogs</Link>
+          <Link to="/information">Cursussen</Link>
         </nav>
       </header>
       <Routes>

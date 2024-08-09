@@ -14,18 +14,18 @@ export default function Information() {
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
           <span className="bullet-point">
-            • Wil je vooral de ambachtelijke kant van het schrijversvak leren?
+            ➤ Wil je vooral de ambachtelijke kant van het schrijversvak leren?
             Dan is <strong>‘Schrijven als ambacht’ </strong>
             iets voor jou. <br />
           </span>
           <span className="bullet-point">
-            • Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
-            bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil
+          ➤  Verwacht je dat hetgeen je schrijft veel emoties op zal roepen,
+            bijvoorbeeld omdat je jouw levensverhaal of familiegeschiedenis wil 
             schrijven? Denk dan eens aan de cursus{" "}
             <strong> ‘Het persoonlijk verhaal'</strong>.
           </span>
           <span className="bullet-point">
-            • Wil je vooral graag schrijven om te verwerken of te groeien, kijk
+          ➤ Wil je vooral graag schrijven om te verwerken of te groeien, kijk
             dan naar de cursus
             <strong> ‘Schrijftherapie en empowerment’</strong>.
           </span>
@@ -37,15 +37,16 @@ export default function Information() {
         </p>
 
         <div className="image-container">
-          <img
+          <img className="pen"
             src={ink}
-            width="200px"
+            width="130px"
             alt="Hand die schrijft, symboliseert creativiteit en schrijfcursussen bij Logos Schrijven en Coaching."
           />
         </div>
 
+        <div className = "ambacht">
         <p>
-          <strong>1. Schrijven als ambacht </strong>
+          <strong>Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />
           Deze training is voor iedereen die van taal houdt! Wil je graag een
           verhaal op papier zetten? Of ben je nieuwsgierig naar je
@@ -76,9 +77,11 @@ export default function Information() {
             ambacht’.
           </details>
         </p>
+        </div>
 
+        <div className="persoonlijk">
         <p>
-          <strong>2. Het persoonlijk verhaal</strong>
+          <strong> Het persoonlijk verhaal</strong> 
           <br style={{ marginBottom: "5px" }} />
           Bij 'het persoonlijk verhaal' krijg je de kans om niet alleen beter te
           schrijven, maar ook om diepgaande emoties te verkennen en te
@@ -99,9 +102,11 @@ export default function Information() {
             <br style={{ marginBottom: "5px" }} />
           </details>
         </p>
+        </div>
 
+        <div className="schrijftherapie">
         <p>
-          <strong>3. Schrijftherapie en empowerment</strong>
+          <strong> Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
           Ontdek de kracht van schrijven als middel tot verwerking en
           persoonlijke ontwikkeling. Bij deze cursus ligt de focus op het
@@ -116,15 +121,17 @@ export default function Information() {
             schrijven van teksten.
           </details>
         </p>
+        </div>
+
       </div>
       <div className="about-page-cta">
         <h2 style={{ paddingBottom: 0 }}>
-          <strong>Praktische informatie </strong>
+          Praktische informatie 
         </h2>
         <h3>
           Elke individuele cursus bestaat uit tien online
-          bijeenkomsten van een uur en kost 400 euro. Het is ook mogelijk om
-          losse lessen te boeken voor 45 euro per les.
+          bijeenkomsten van een uur en kost 500 euro. Het is ook mogelijk om
+          losse lessen te boeken voor 55 euro per les.
         </h3>
         <h4 class="vragen">
           Voor vragen en aanmelden, email ons en we nemen snel contact met je

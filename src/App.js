@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Information from './pages/Information';
 import Blogs from './pages/Blogs';
+import Reviews from './pages/Reviews';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <nav>
           <Link to="/about">Over ons</Link>
           <Link to="/information">Cursussen</Link>
+          <Link to ="/reviews">Recensies</Link>
         </nav>
       </header>
       <Routes>
@@ -23,6 +25,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/information" element={<Information />} />
         <Route path="/blogs" element={<Blogs />} />
+        <Route path="/reviews" element={<Reviews />} />
       </Routes>
     </BrowserRouter>
   );

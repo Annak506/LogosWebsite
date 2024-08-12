@@ -274,6 +274,8 @@ nav {
   border: 3.5px solid #c4e1e0;
 }
 
+/*** BLOG PAGE ***/
+
 .alcohol-blog {
   background-color: #f1fffe;
   padding-left: 45px;
@@ -333,9 +335,41 @@ nav {
   font-style: normal;
 }
 
+/*** REVIEWS PAGE ***/
+
+.review-page-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: white;
+  padding: 20px;
+  width: 100%;
+
+}
+
+.review-page-content {
+  padding-inline: 23px;
+  color: #161616;
+  margin-bottom: 30px;
+}
+
+.review-page-content h1 {
+  line-height: 38px;
+}
+
+.review-page-content p {
+  line-height: 22px;
+}
+
+.reviewName {
+  font-style: italic;
+}
+
+
 .about-page-content,
 .alcohol-blog,
-.information-content{
+.information-content,
+.review-page-content{
   padding-left: 40px;  /* Verplaats de tekst naar rechts */
   padding-right: 60px; /* Verplaats de tekst naar links */
 }

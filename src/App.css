@@ -436,6 +436,11 @@ nav {
     padding-right: 15px;
   }
 
+  .review-page-container{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
   /* Verklein de padding en margins van about-page-cta */
   .about-page-cta {
     padding-inline: 20px;
@@ -456,6 +461,8 @@ nav {
     padding-top: 15px;
     padding-bottom: 25px;
   }
+
+
 
   /* Verklein de padding van .ambacht, .persoonlijk, en .schrijftherapie */
   .ambacht,

@@ -427,3 +427,8 @@ nav {
   border: 2px solid rgb(72, 69, 69);
 }
 }
+
+.no-colour-link{
+  color: inherit;
+  text-decoration: none;
+}

@@ -53,7 +53,7 @@ export default function About() {
             </em>
             <br></br>
             E-mail: logos@kleinloog.eu<br></br>
-            [◉°] schrijvenencoaching
+            [◉°] <a href="https://www.instagram.com/schrijvenencoaching" target="_blank" className="no-colour-link">schrijvenencoaching </a>
           </p>
         </div>
         <div className="about-page-cta">

@@ -171,8 +171,20 @@ nav {
 }
 
 @media only screen and (max-width: 600px) {
+  header {
+    padding-block: 5px; 
+    
+  }
+
+  header nav {
+    display: flex;
+    justify-content: space-between; 
+    gap: 5px; 
+  }
+
   header a {
-    font-size: 0.85rem; 
+    font-size: 0.8rem; 
+    padding: 3px 8px; 
   }
 }
 

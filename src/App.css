@@ -36,6 +36,53 @@ header .site-logo {
   font-size: 25px;
 }
 
+
+.menu-button {
+  display: none;
+  font-size: 1.5em;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Standaard menu styling */
+nav.menu {
+  display: flex;
+  gap: 15px;
+}
+
+/* Menu styling voor mobiele apparaten */
+@media (max-width: 768px) {
+  nav.menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px; /* Afhankelijk van je header hoogte */
+    right: 10px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  nav.menu.open {
+    display: flex;
+  }
+
+  .menu-button {
+    display: block;
+  }
+
+  nav.menu a {
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+  }
+
+  nav.menu a:hover {
+    background-color: #ddd;
+  }
+}
+
 header a {
   text-decoration: none;
   color: #4d4d4d;

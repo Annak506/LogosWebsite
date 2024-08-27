@@ -44,6 +44,35 @@ export default function Information() {
           />
         </div>
 
+        <div className = "nieuws">
+          <p>
+            <strong> 15 september 2024 - online flitsles ‘De eerste zin’
+            </strong>
+            <br style = {{ marginBottom: "5px"}} />
+            Heb je zin om te schrijven, maar weet je niet goed waar je moet beginnen? Of wil je meer leren over hoe je jouw teksten een krachtige start kunt geven? Dan nodigen we je van harte uit voor onze Logos online flitsles ‘De eerste zin!’
+            <br style = {{ marginBottom: "5px"}} />
+            <br style = {{ marginBottom: "5px"}} />
+            Datum:  
+            <br style = {{ marginBottom: "5px"}} />Zondag 15 september 2024  
+            <br style = {{ marginBottom: "5px"}} />Tijd:  16.00 - 17.00 uur  
+            <br style = {{ marginBottom: "5px"}} />Kosten:  €22,50
+            <br style = {{ marginBottom: "5px"}} /> <br style = {{ marginBottom: "5px"}} />
+            Tijdens deze les gaan we het hebben over:
+            <br style = {{ marginBottom: "5px"}} />
+•⁠  ⁠Zin hebben in schrijven: hoe vind je de motivatie om te beginnen?
+<br style = {{ marginBottom: "5px"}} />
+•⁠  ⁠Zin geven aan schrijven: wat wil je met je tekst bereiken? <br style = {{ marginBottom: "5px"}} />
+•⁠  ⁠Het schrijven van een pakkende beginzin: hoe grijp je de aandacht van je lezers vanaf de eerste regel?
+<br style = {{ marginBottom: "5px"}} />  <br style = {{ marginBottom: "5px"}} />
+De les is bedoeld voor iedereen die zijn schrijfvaardigheden wil verbeteren, of je nu een beginnende schrijver bent of al wat ervaring hebt. Doe mee en laat je inspireren!
+Meld je aan door een e-mail te sturen naar logos@kleinloog.eu. 
+We hopen je op 15 september online te zien!
+<br style = {{ marginBottom: "5px"}} /> <br style = {{ marginBottom: "5px"}} />
+Met vriendelijke groet,  
+Het Logos Team
+          </p>
+        </div>
+
         <div className = "ambacht">
         <p>
           <strong>Schrijven als ambacht </strong>

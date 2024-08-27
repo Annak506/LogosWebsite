@@ -449,15 +449,26 @@ nav {
   margin-bottom: 15px;
 }
 
+.nieuws{
+  border: 2px solid rgb(213, 145, 139);
+  border-radius: 10px;
+  padding: 20px;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  background-color: rgb(238, 208, 205);
+}
+
 .ambacht strong,
 .persoonlijk strong,
-.schrijftherapie strong{
+.schrijftherapie strong,
+.nieuws strong{
   line-height: 1.8;
 }
 
 .ambacht p,
 .persoonlijk p,
-.schrijftherapie p{
+.schrijftherapie p,
+.nieuws p{
   margin-right: 7px;
 }
 
@@ -523,6 +534,12 @@ nav {
     padding-left: 20px;
     margin-bottom: 10px;
     background-color: #ebf6f6;
+  }
+
+  .nieuws{
+    padding: 15px;
+    padding-left: 20px;
+    margin-bottom: 10px;
   }
 
   .bullet-point{

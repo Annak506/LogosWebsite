@@ -29,6 +29,9 @@ export default function Information() {
             dan naar de cursus
             <strong> ‘Schrijftherapie en empowerment’</strong>.
           </span>
+          <span className="bullet-point">
+          ✎ Ben je een expat of reiziger die zijn ervaringen in het buitenland op een creatieve manier wil vastleggen? Ontdek dan onze module <strong>‘Creatief Schrijven voor Expats en Reizigers’</strong>.
+          </span>
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
           meer Hetty, soms wat meer Anna. Samen met jou bepalen we wat voor jou
@@ -150,6 +153,25 @@ Het Logos Team
           </details>
         </p>
         </div>
+
+        <div className = "expats">
+        <p>
+          <strong>Creatief schrijven voor expats en reizigers </strong>
+          <br style={{ marginBottom: "5px" }} />
+          Deze module is speciaal ontworpen voor expats en reizigers die hun ervaringen in het buitenland op een creatieve manier willen vastleggen. Je leert hoe je levendige beschrijvingen maakt van nieuwe omgevingen, authentieke personages creëert gebaseerd op de mensen die je ontmoet, en hoe je culturele misverstanden en clashes kunt omzetten in boeiende verhalen.
+          <details>
+            <summary>Lees meer</summary>
+            Daarnaast besteden we aandacht aan de unieke uitdagingen die het schrijven als expat met zich meebrengt, zoals het vertalen van culturele nuances en het vinden van je plaats in een nieuwe omgeving. Deze cursus helpt je om jouw unieke perspectieven en verhalen te verkennen en uit te drukken. <br></br> Je wordt aangemoedigd om diep in een nieuwe cultuur te duiken en de verschillende aspecten daarvan te onderzoeken en te beschrijven.
+
+Onze schrijfcoach staat bovendien klaar om je te begeleiden bij het omgaan met de emoties die kunnen opkomen tijdens het schrijven. <br></br>Of het nu gaat om nostalgie, heimwee, of het gevoel van vervreemding, we helpen je om deze gevoelens om te zetten in krachtige verhalen die jouw lezers zullen raken.
+
+Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je verhalen, of om simpelweg je ervaringen te verwerken, deze cursus geeft je de tools om je reisverhalen tot leven te brengen.
+          </details>
+        </p>
+        </div>
+
+
+
 
       </div>
       <div className="about-page-cta">

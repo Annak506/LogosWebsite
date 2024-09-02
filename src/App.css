@@ -441,7 +441,8 @@ nav {
 
 .ambacht,
 .persoonlijk,
-.schrijftherapie{
+.schrijftherapie,
+.expats{
   border: 2px solid rgb(70, 123, 124);
   border-radius: 10px;
   padding: 20px;
@@ -461,6 +462,7 @@ nav {
 .ambacht strong,
 .persoonlijk strong,
 .schrijftherapie strong,
+.expats strong,
 .nieuws strong{
   line-height: 1.8;
 }
@@ -468,6 +470,7 @@ nav {
 .ambacht p,
 .persoonlijk p,
 .schrijftherapie p,
+.expats p,
 .nieuws p{
   margin-right: 7px;
 }
@@ -529,6 +532,7 @@ nav {
   /* Verklein de padding van .ambacht, .persoonlijk, en .schrijftherapie */
   .ambacht,
   .persoonlijk,
+  .expats,
   .schrijftherapie {
     padding: 15px;
     padding-left: 20px;

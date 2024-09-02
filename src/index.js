@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Information from './pages/Information';
 import Blogs from './pages/Blogs';
+import Expats from './pages/Expats';
 import './App.css';
 import App from './App.js'
 

@@ -47,7 +47,8 @@ export default function Information() {
           />
         </div>
 
-        <div className = "nieuws">
+{/*
+      <div className = "nieuws">
           <p>
             <strong> 15 september 2024 - online flitsles ‘De eerste zin’
             </strong>
@@ -74,7 +75,7 @@ We hopen je op 15 september online te zien!
 Met vriendelijke groet,  
 Het Logos Team
           </p>
-        </div>
+        </div> */}
 
         <div className = "ambacht">
         <p>

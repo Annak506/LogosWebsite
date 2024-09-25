@@ -43,7 +43,7 @@ export default function Reviews(){
          
         
           <span className="bullet-point">
-          ✎ 'Anna was de eerste persoon aan wie ik mijn meest persoonlijke en heftige ervaringen durfde te vertellen. Ze is er zeer zorgvuldig mee omgegaan. De gesprekken met haar hebben mij geholpen om mijn innerlijke worstelingen onder woorden te brengen en mijn angsten in de ogen te kijken en te overwinnen. Ik zou dit traject iedereen aanraden; het heeft me op zoveel manieren geholpen en ik gun iedereen deze ervaring.' <span className="reviewName">-  Julia (31 jaar), Rotterdam </span>
+          ✎ 'Anna en Hetty verdienen goud. Enerzijds werd ik zeer gestimuleerd om werkelijk alles van mij af te schrijven en het gewoon op papier te krijgen. Anderzijds was er ondersteuning om de echt moeilijke momenten nog dichter naar mijzelf toe te schrijven. Het waren nooit zomaar een paar woorden op papier, maar nu is het echt mijn kindje geworden. Bedankt!' <span className="reviewName">-  I.K. Magnus (31 jaar) </span>
           </span>
 
           <br style={{ marginBottom: "5px" }} />

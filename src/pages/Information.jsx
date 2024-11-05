@@ -81,9 +81,9 @@ Het Logos Team
         
       <div className="nieuws">
           <p>
-            <strong>Sinterklaasgedichten workshop</strong>
+            <strong> Online Flitsles: Sinterklaasgedichten schrijven</strong>
             <br style={{ marginBottom: "5px"}} />
-            Heb jij ook elk jaar weer zo’n Sinterklaasgedichten-stress en moet je vaak last minute nog iets bedenken? 🎁 Of wil je nieuwe technieken leren om je dichtvaardigheden naar een hoger niveau te tillen? ✍️ Dan nodigen we je van harte uit voor onze Logos schrijfworkshop ‘Sinterklaasgedichten schrijven’!
+            Heb jij ook elk jaar weer zo’n sinterklaasgedichten-stress en moet je vaak last minute nog iets bedenken? Of wil je nieuwe technieken leren om je dichtvaardigheden naar een hoger niveau te tillen? ✍️ Dan nodigen we je van harte uit voor onze Logos schrijfworkshop ‘Sinterklaasgedichten schrijven’!
             <br style={{ marginBottom: "5px"}} />
             <br style={{ marginBottom: "5px"}} />
             Datum:  
@@ -98,7 +98,7 @@ Het Logos Team
             We hopen je op 2 december te zien! 🌟  
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             Met vriendelijke groet,  
-            Het Logos Team
+            Het Logos Team  🎁
           </p>
         </div>
 

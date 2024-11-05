@@ -90,6 +90,7 @@ Het Logos Team
             <br style={{ marginBottom: "5px"}} />Maandagavond 2 december 2024  
             <br style={{ marginBottom: "5px"}} />Tijd:  20.00 uur  
             <br style={{ marginBottom: "5px"}} />Kosten:  €12,50  
+            <br style={{ marginBottom: "5px"}} />Locatie: online 
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             Aan het einde van de avond ga je naar huis met ten minste één afgerond Sinterklaasgedicht waar je trots op kunt zijn! 🎉
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />

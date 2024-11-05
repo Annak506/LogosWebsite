@@ -93,7 +93,7 @@ Het Logos Team
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             Aan het einde van de avond ga je naar huis met ten minste één afgerond Sinterklaasgedicht waar je trots op kunt zijn! 🎉
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            **Aanmelden?** Stuur een e-mail naar logos@kleinloog.eu of bezoek onze website www.schrijven-en-coaching.nl.  
+            <strong>Aanmelden?</strong> Stuur een e-mail naar logos@kleinloog.eu
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             We hopen je op 2 december te zien! 🌟  
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />

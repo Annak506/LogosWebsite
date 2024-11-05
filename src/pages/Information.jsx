@@ -77,6 +77,33 @@ Het Logos Team
           </p>
         </div> */}
 
+
+        
+      <div className="nieuws">
+          <p>
+            <strong>Sinterklaasgedichten workshop</strong>
+            <br style={{ marginBottom: "5px"}} />
+            Heb jij ook elk jaar weer zo’n Sinterklaasgedichten-stress en moet je vaak last minute nog iets bedenken? 🎁 Of wil je nieuwe technieken leren om je dichtvaardigheden naar een hoger niveau te tillen? ✍️ Dan nodigen we je van harte uit voor onze Logos schrijfworkshop ‘Sinterklaasgedichten schrijven’!
+            <br style={{ marginBottom: "5px"}} />
+            <br style={{ marginBottom: "5px"}} />
+            Datum:  
+            <br style={{ marginBottom: "5px"}} />Maandagavond 2 december 2024  
+            <br style={{ marginBottom: "5px"}} />Tijd:  20.00 uur  
+            <br style={{ marginBottom: "5px"}} />Kosten:  €12,50  
+            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
+            Aan het einde van de avond ga je naar huis met ten minste één afgerond Sinterklaasgedicht waar je trots op kunt zijn! 🎉
+            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
+            **Aanmelden?** Stuur een e-mail naar logos@kleinloog.eu of bezoek onze website www.schrijven-en-coaching.nl.  
+            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
+            We hopen je op 2 december te zien! 🌟  
+            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
+            Met vriendelijke groet,  
+            Het Logos Team
+          </p>
+        </div>
+
+
+
         <div className = "ambacht">
         <p>
           <strong>Schrijven als ambacht </strong>

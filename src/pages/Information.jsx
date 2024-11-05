@@ -88,7 +88,7 @@ Het Logos Team
             <br style={{ marginBottom: "5px"}} />
             Datum:  
             <br style={{ marginBottom: "5px"}} />Maandagavond 2 december 2024  
-            <br style={{ marginBottom: "5px"}} />Tijd:  20.00 uur  
+            <br style={{ marginBottom: "5px"}} />Tijd:  20.00 tot 21.00 uur  
             <br style={{ marginBottom: "5px"}} />Kosten:  €12,50  
             <br style={{ marginBottom: "5px"}} />Locatie: online 
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />

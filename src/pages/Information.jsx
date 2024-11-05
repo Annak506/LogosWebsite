@@ -98,6 +98,7 @@ Het Logos Team
             We hopen je op 2 december te zien! 🌟  
             <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             Met vriendelijke groet,  
+            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
             Het Logos Team  🎁
           </p>
         </div>

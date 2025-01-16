@@ -79,30 +79,62 @@ Het Logos Team
 
 
         
-      <div className="nieuws">
-          <p>
-            <strong> Online Flitsles: Sinterklaasgedichten schrijven</strong>
-            <br style={{ marginBottom: "5px"}} />
-            Heb jij ook elk jaar weer zo’n sinterklaasgedichten-stress en moet je vaak last minute nog iets bedenken? Of wil je nieuwe technieken leren om je dichtvaardigheden naar een hoger niveau te tillen? ✍️ Dan nodigen we je van harte uit voor onze Logos schrijfworkshop ‘Sinterklaasgedichten schrijven’!
-            <br style={{ marginBottom: "5px"}} />
-            <br style={{ marginBottom: "5px"}} />
-            Datum:  
-            <br style={{ marginBottom: "5px"}} />Maandagavond 2 december 2024  
-            <br style={{ marginBottom: "5px"}} />Tijd:  20.00 tot 21.00 uur  
-            <br style={{ marginBottom: "5px"}} />Kosten:  €12,50  
-            <br style={{ marginBottom: "5px"}} />Locatie: online 
-            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            Aan het einde van de avond ga je naar huis met ten minste één afgerond Sinterklaasgedicht waar je trots op kunt zijn! 🎉
-            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            <strong>Aanmelden?</strong> Stuur een e-mail naar logos@kleinloog.eu
-            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            We hopen je op 2 december te zien! 🌟  
-            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            Met vriendelijke groet,  
-            <br style={{ marginBottom: "5px"}} /> <br style={{ marginBottom: "5px"}} />
-            Het Logos Team  🎁
-          </p>
-        </div>
+        <div className="nieuws">
+  <p>
+    🎉Schrijf je in voor de maandelijkse masterclasses van Logos Schrijven en Coaching! ✍️
+  </p>
+  <p>
+    Elke maand bieden wij een nieuwe, inspirerende online masterclass aan voor slechts €22,50 per les (1 uur via Zoom). Meld je aan voor losse lessen of kies voor 5 lessen en betaal slechts voor 4! 🖋️
+  </p>
+  <p>
+    📅 Je kunt je op elk moment van het jaar aanmelden!
+  </p>
+  <p>
+    Deze masterclasses zijn voor alle niveaus – of je nu net begint met schrijven of al een manuscript hebt klaarliggen, er is altijd ruimte om te groeien!
+  </p>
+  <p>
+    Wat je kunt verwachten:
+    <ul>
+      <li>Personages (<em>januari</em>): Creëer onvergetelijke personages die de lezer niet loslaten! 🌟</li>
+      <li>Liefdesverhalen (<em>februari</em>): Schrijf de mooiste liefdesverhalen die je hart doen smelten. 💖</li>
+      <li>Thrillers en detectives schrijven (<em>maart</em>): Bouw spanning op en laat je lezers sidderen! 🔍</li>
+      <li>Scenario schrijven (<em>april</em>): Maak je verhaal visueel met krachtige scripts. 🎬</li>
+      <li>Poëzie (<em>mei</em>): Verwoord jouw emoties en gedachten in poëtische taal. ✨</li>
+      <li>Kinderverhalen schrijven (<em>juni</em>): Schrijf voor de jonge lezers. 🧸</li>
+      <li>Reisverhalen schrijven (<em>juli</em>): Deel je avonturen en breng de magie van verre landen tot leven. 🌍</li>
+      <li>Polarsteps (ultrakort schrijven) (<em>augustus</em>): De kunst van het schrijven in een paar krachtige zinnen. ✈️</li>
+      <li>Humor (<em>september</em>): Schrijven met humor om je lezers aan het lachen te maken! 😂</li>
+      <li>Schrijven over rouw (<em>oktober</em>): Schrijf naar je toe, schrijf van je af en verwerk verlies. 💔</li>
+      <li>Dialogen (<em>november</em>): Leer hoe je een goede, geloofwaardige dialoog schrijft! 🗣️</li>
+      <li>Redigeren van je eigen verhaal (<em>december</em>): Maak je verhaal af met onze redigeer- en tipsessie! ✍️</li>
+    </ul>
+  </p>
+  <p>
+    Aanmelden: Stuur een mail naar <a href="mailto:logos@kleinloog.eu">logos@kleinloog.eu</a> om je plek te reserveren! 🌟
+  </p>
+  
+  <p>
+    Geef je schrijfvaardigheden een boost en hopelijk tot snel!
+  </p>
+  <p>
+    <strong>Data op een rijtje (tussen 16.00-17.00):</strong>
+    <ul>
+      <li>26 januari: Personages</li>
+      <li>23 februari: Liefdesverhalen</li>
+      <li>30 maart: Thrillers en detectives schrijven</li>
+      <li>26 april: Scenario schrijven</li>
+      <li>25 mei: Poëzie</li>
+      <li>29 juni: Kinderverhalen schrijven</li>
+      <li>27 juli: Reisverhalen schrijven</li>
+      <li>24 augustus: Polarsteps (ultrakort schrijven)</li>
+      <li>28 september: Humor</li>
+      <li>26 oktober: Schrijven over rouw</li>
+      <li>30 november: Dialogen</li>
+      <li>28 december: Redigeren van je eigen verhaal</li>
+    </ul>
+  </p>
+</div>
+
 
 
 

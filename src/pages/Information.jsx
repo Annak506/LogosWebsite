@@ -80,9 +80,9 @@ Het Logos Team
 
         
         <div className="nieuws">
-  <p>
+  <p> <strong>
     🎉Schrijf je in voor de maandelijkse masterclasses van Logos Schrijven en Coaching! ✍️
-  </p>
+    </strong> </p>
   <p>
     Elke maand bieden wij een nieuwe, inspirerende online masterclass aan voor slechts €22,50 per les (1 uur via Zoom). Meld je aan voor losse lessen of kies voor 5 lessen en betaal slechts voor 4! 🖋️
   </p>

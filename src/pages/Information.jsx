@@ -92,8 +92,8 @@ Het Logos Team
   <p>
     Deze masterclasses zijn voor alle niveaus – of je nu net begint met schrijven of al een manuscript hebt klaarliggen, er is altijd ruimte om te groeien!
   </p>
-  <p>
-    Wat je kunt verwachten:
+  <p> <strong>
+    Wat je kunt verwachten:</strong>
     <ul>
       <li>Personages (<em>januari</em>): Creëer onvergetelijke personages die de lezer niet loslaten! 🌟</li>
       <li>Liefdesverhalen (<em>februari</em>): Schrijf de mooiste liefdesverhalen die je hart doen smelten. 💖</li>

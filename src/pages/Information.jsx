@@ -236,6 +236,40 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
         </p>
         </div>
 
+        <div className="theater">
+  <p>
+    <strong>Schrijven als Ambacht - Theater: Jouw verhaal op het toneel</strong>
+    <br style={{ marginBottom: "5px" }} />
+    Bij Logos Schrijven & Training geloven we dat schrijven een ambacht is: een vaardigheid die je kunt ontwikkelen, verfijnen en eigen maken. Onze populaire module Schrijven als Ambacht heeft nu een gloednieuwe variant: Schrijven als Ambacht - Theater.
+
+    In deze module duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.
+  </p>
+  <details>
+    <summary>Lees meer</summary>
+    <p>Onder begeleiding van onze ervaren trainers werk je aan:</p>
+    <ul>
+      <li>Structuur: Hoe bouw je een theaterstuk op dat het publiek van begin tot eind boeit?</li>
+      <li>Personages: Hoe creëer je gelaagde, geloofwaardige personages die het verhaal dragen?</li>
+      <li>Dialogen: Hoe schrijf je krachtige dialogen die levensecht klinken en emoties oproepen?</li>
+      <li>Treatment: Hoe vertaal je jouw ideeën naar een heldere, gestructureerde blauwdruk?</li>
+    </ul>
+    <p>
+      Maar dat is nog niet alles. Tijdens de module onderzoeken we ook wat jíj met jouw theatertekst wilt vertellen. Welke boodschap wil je overbrengen? Wat wil je het publiek laten voelen, denken of ervaren? Samen zoeken we naar jouw unieke stem als theaterauteur.
+    </p>
+    <p>
+      <strong>Voor wie?</strong><br />
+      Deze module is perfect voor iedereen die de ambitie heeft om theaterteksten te schrijven, of je nu al ervaring hebt of net begint. Of je nu droomt van een intiem kamerstuk of een grootse productie, bij ons leg je de basis voor een theatertekst die impact maakt.
+    </p>
+    <p>
+      Ben jij klaar om jouw verhaal op het toneel tot leven te brengen? Meld je aan voor Schrijven als Ambacht - Theater en ontdek de kunst van het theaterschrijven.
+    </p>
+    
+  </details>
+</div>
+
+
+
+
 
 
 

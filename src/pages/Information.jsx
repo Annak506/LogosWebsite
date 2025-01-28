@@ -32,6 +32,12 @@ export default function Information() {
           <span className="bullet-point">
           ✎ Ben je een expat of reiziger die zijn ervaringen in het buitenland op een creatieve manier wil vastleggen? Ontdek dan onze module <strong>‘Creatief Schrijven voor Expats en Reizigers’</strong>.
           </span>
+  
+          <span className="bullet-point">
+          ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijven als Ambacht - Theater’ </strong>
+          </span>
+
+
           <br style={{ marginBottom: "5px" }} />
           Bij alle cursussen krijg je begeleiding van Hetty en Anna; soms wat
           meer Hetty, soms wat meer Anna. Samen met jou bepalen we wat voor jou

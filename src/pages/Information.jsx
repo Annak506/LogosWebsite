@@ -141,6 +141,8 @@ Het Logos Team
       <li>30 november: Dialogen</li>
       <li>28 december: Redigeren van je eigen verhaal</li>
     </ul>
+
+    Elke les is ook als online, individuele les te boeken.
   </p>
   </details>
 </div>

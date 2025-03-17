@@ -131,7 +131,7 @@ Het Logos Team
       <li>26 januari: Personages</li>
       <li>23 februari: Liefdesverhalen</li>
       <li>30 maart: Thrillers en detectives schrijven</li>
-      <li>26 april: Scenario schrijven</li>
+      <li>27 april: Scenario schrijven</li>
       <li>25 mei: Poëzie</li>
       <li>29 juni: Kinderverhalen schrijven</li>
       <li>27 juli: Reisverhalen schrijven</li>

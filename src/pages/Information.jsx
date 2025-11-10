@@ -75,7 +75,7 @@ export default function Information() {
 •⁠  ⁠Het schrijven van een pakkende beginzin: hoe grijp je de aandacht van je lezers vanaf de eerste regel?
 <br style = {{ marginBottom: "5px"}} />  <br style = {{ marginBottom: "5px"}} />
 De les is bedoeld voor iedereen die zijn schrijfvaardigheden wil verbeteren, of je nu een beginnende schrijver bent of al wat ervaring hebt. Doe mee en laat je inspireren!
-Meld je aan door een e-mail te sturen naar logos@kleinloog.eu. 
+Meld je aan door een e-mail te sturen naar schrijvenencoaching@gmail.com 
 We hopen je op 15 september online te zien!
 <br style = {{ marginBottom: "5px"}} /> <br style = {{ marginBottom: "5px"}} />
 Met vriendelijke groet,  
@@ -119,7 +119,7 @@ Het Logos Team
   <details>
   <summary>Lees meer</summary>
   <p>
-    Aanmelden: Stuur een mail naar <a href="mailto:logos@kleinloog.eu">logos@kleinloog.eu</a> om je plek te reserveren! 🌟
+    Aanmelden: Stuur een mail naar <a href="mailto:schrijvenencoaching@gmail.com">schrijvenencoaching@gmail.com</a> om je plek te reserveren! 🌟
   </p>
   
   <p>
@@ -293,7 +293,7 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
         </h3>
         <h4 class="vragen">
           Voor vragen en aanmelden, email ons en we nemen snel contact met je
-          op: logos@kleinloog.eu
+          op: schrijvenencoaching@gmail.com
         </h4>
         <h4> Tot ziens bij Logos! Anna en Hetty </h4>
       </div>

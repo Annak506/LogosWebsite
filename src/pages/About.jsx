@@ -52,7 +52,7 @@ export default function About() {
               Contactgegevens
             </em>
             <br></br>
-            E-mail: logos@kleinloog.eu<br></br>
+            E-mail: schrijvenencoaching@gmail.com<br></br>
             [◉°] <a href="https://www.instagram.com/schrijvenencoaching" target="_blank" className="no-colour-link">schrijvenencoaching </a>
           </p>
         </div>

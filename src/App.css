@@ -83,14 +83,16 @@ nav.menu {
   }
 }
 
-header a {
+header a ,
+header .link-button{
   text-decoration: none;
   color: #4d4d4d;
   font-weight: 600;
   padding: 5px 10px;
 }
 
-header a:hover {
+header a:hover,
+header .link-button:hover {
   color: #161616;
   text-decoration: underline;
 }
@@ -664,12 +666,3 @@ nav {
   display: block;
 }
 
-header .link-button {
-  color: #4d4d4d; /* hetzelfde als de andere header-links */
-  font-weight: 600;
-  text-decoration: none;
-}
-header .link-button:hover {
-  color: #161616;
-  text-decoration: underline;
-}

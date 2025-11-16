@@ -269,8 +269,7 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
     <br style={{ marginBottom: "5px" }} />
     Bij Logos Schrijven & Training geloven we dat schrijven een ambacht is: een vaardigheid die je kunt ontwikkelen, verfijnen en eigen maken. Onze populaire module Schrijven als Ambacht heeft nu een gloednieuwe variant: Schrijven als Ambacht - Theater.
 
-    In deze module duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.
-  </p>
+    In deze module duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.</p>
   <details>
     <summary>Lees meer</summary>
     <p>Onder begeleiding van onze ervaren trainers werk je aan:</p>
@@ -290,7 +289,6 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
     <p>
       Ben jij klaar om jouw verhaal op het toneel tot leven te brengen? Meld je aan voor Schrijven als Ambacht - Theater en ontdek de kunst van het theaterschrijven.
     </p>
-    
   </details>
 </div>
 

@@ -1,9 +1,22 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import { Link } from "react-router-dom";
 import sheWritesImage from "../images/sheWrites.jpg";
 import ink from "../images/ink.png";
 
 export default function Information() {
+
+  const location = useLocation();
+
+  useEffect(() => {
+    if (location.hash) {
+      const element = document.getElementById(location.hash.substring(1));
+      if (element) {
+        element.scrollIntoView({ behavior: "smooth" }); // soepel scrollen
+      }
+    }
+  }, [location]); 
+  
   return (
     <div className="about-page-container">
       <div className="about-page-content">

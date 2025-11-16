@@ -18,7 +18,7 @@ useEffect(() => {
         element.scrollIntoView({ behavior: "smooth" });
 
         // Highlight verwijderen van alle blokken
-        document.querySelectorAll('.light-blue-block').forEach(el =>
+        document.querySelectorAll('.light-blue-block white-block').forEach(el =>
           el.classList.remove('highlight')
         );
 
@@ -28,6 +28,12 @@ useEffect(() => {
        
       }
     }
+    else {
+    // Geen hash: verwijder alle highlights
+    document.querySelectorAll('.light-blue-block, .white-block').forEach(el =>
+      el.classList.remove('highlight')
+    );
+  }
   }, [location]);
 
   
@@ -185,7 +191,7 @@ Het Logos Team
 
 
 
-        <div id="ambacht" className = "ambacht">
+        <div id="ambacht" className = "ambacht white-block">
         <p>
           <strong>Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -244,7 +250,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div id="schrijftherapie" className="schrijftherapie ">
+        <div id="schrijftherapie" className="schrijftherapie white-block ">
         <p>
           <strong> Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
@@ -279,7 +285,7 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
         </p>
         </div>
 
-           <div id="kinderen" className = "kinderen">
+           <div id="kinderen" className = "kinderen white-block">
         <p>
           <strong>Kinderverhalen schrijven </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -309,7 +315,7 @@ Leer hoe je een geloofwaardig en meeslepend plot opbouwt, hoe cliffs, timing en 
 
 
 
-        <div id="theater" className="theater ">
+        <div id="theater" className="theater white-block">
   <p>
     <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />

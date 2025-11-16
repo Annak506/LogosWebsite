@@ -199,7 +199,7 @@ Het Logos Team
           verhaal op papier zetten? Of ben je nieuwsgierig naar je
           schrijfvaardigheden en wil je ontdekken welke schrijfvorm het beste
           bij je past? In deze toegankelijke cursus ga je aan de slag met het
-          ontwikkelen van je schrijfvaardigheden.
+          ontwikkelen van je schrijfvaardigheden.   </p>
           <details>
             <summary>Lees meer</summary>
             Theoretische kennis wordt gecombineerd met praktische
@@ -223,7 +223,7 @@ Het Logos Team
             schrijftalent en schrijf je in voor onze training ‘Schrijven als
             ambacht’.
           </details>
-        </p>
+      
         </div>
 
         <div id="persoonlijk" className="persoonlijk light-blue-block" >

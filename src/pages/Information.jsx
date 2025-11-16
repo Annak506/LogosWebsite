@@ -25,8 +25,7 @@ useEffect(() => {
         // Highlight toevoegen aan het geklikte blok
         element.classList.add('highlight');
 
-        // Optioneel: highlight na 3 seconden verwijderen
-        setTimeout(() => element.classList.remove('highlight'), 3000);
+       
       }
     }
   }, [location]);

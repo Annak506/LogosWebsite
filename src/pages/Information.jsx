@@ -32,15 +32,12 @@ export default function Information() {
           <span className="bullet-point">
           ✎ Ben je een expat of reiziger die zijn ervaringen in het buitenland op een creatieve manier wil vastleggen? Ontdek dan onze module <strong>‘Creatief Schrijven voor Expats en Reizigers’</strong>.
           </span>
-
-            <span className="bullet-point">
+          <span className="bullet-point">
           ✎ Wil je verhalen creëren voor alles van babyboek tot jeugdroman en leren hoe je elke leeftijdsgroep weet te raken? Kies dan voor <strong>  ‘Kinderverhalen Schrijven’ </strong>.
           </span>
-
           <span classname="bullet-point">
             ✎ Wil je leren hoe je spanning opbouwt, onverwachte plotwendingen creëert en verhalen schrijft die je lezers tot het einde op het puntje van hun stoel houden? Kies dan voor <strong> ‘Thriller schrijven’ </strong>.
           </span>
-  
           <span className="bullet-point">
           ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijf je eigen toneelstuk’ </strong>
           </span>

@@ -616,6 +616,11 @@ nav {
   border-radius: 5px;        /* optioneel, afgeronde hoeken */
 }
 
+.highlight {
+  border: 4px solid #ff6600;
+  background-color: #fff3e0;
+}
+
 /* Dropdown container */
 .dropdown {
   position: relative;

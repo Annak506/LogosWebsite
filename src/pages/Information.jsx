@@ -8,14 +8,30 @@ export default function Information() {
 
   const location = useLocation();
 
-  useEffect(() => {
+useEffect(() => {
     if (location.hash) {
-      const element = document.getElementById(location.hash.substring(1));
+      const targetId = location.hash.substring(1);
+      const element = document.getElementById(targetId);
+
       if (element) {
-        element.scrollIntoView({ behavior: "smooth" }); // soepel scrollen
+        // Scrollen
+        element.scrollIntoView({ behavior: "smooth" });
+
+        // Highlight verwijderen van alle blokken
+        document.querySelectorAll('.light-blue-block').forEach(el =>
+          el.classList.remove('highlight')
+        );
+
+        // Highlight toevoegen aan het geklikte blok
+        element.classList.add('highlight');
+
+        // Optioneel: highlight na 3 seconden verwijderen
+        setTimeout(() => element.classList.remove('highlight'), 3000);
       }
     }
-  }, [location]); 
+  }, [location]);
+
+  
 
   return (
     <div className="about-page-container">

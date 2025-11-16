@@ -32,6 +32,10 @@ export default function Information() {
           <span className="bullet-point">
           ✎ Ben je een expat of reiziger die zijn ervaringen in het buitenland op een creatieve manier wil vastleggen? Ontdek dan onze module <strong>‘Creatief Schrijven voor Expats en Reizigers’</strong>.
           </span>
+
+            <span className="bullet-point">
+          ✎ Wil je verhalen creëren voor alles van babyboek tot jeugdroman en leren hoe je elke leeftijdsgroep weet te raken? Kies dan voor ‘Kinderverhalen Schrijven’.
+          </span>
   
           <span className="bullet-point">
           ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijf je eigen toneelstuk’ </strong>
@@ -240,6 +244,19 @@ Het Logos Team
 Onze schrijfcoach staat bovendien klaar om je te begeleiden bij het omgaan met de emoties die kunnen opkomen tijdens het schrijven. <br></br>Of het nu gaat om nostalgie, heimwee, of het gevoel van vervreemding, we helpen je om deze gevoelens om te zetten in krachtige verhalen die jouw lezers zullen raken.
 
 Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je verhalen, of om simpelweg je ervaringen te verwerken, deze cursus geeft je de tools om je reisverhalen tot leven te brengen.
+          </details>
+        </p>
+        </div>
+
+           <div className = "kinderen">
+        <p>
+          <strong>Kinderverhalen schrijven </strong>
+          <br style={{ marginBottom: "5px" }} />
+          Wil je leren hoe je kinderen kunt betoveren met fantasierijke en aansprekende verhalen? In deze cursus ontdek je de bouwstenen van het schrijven van kinderverhalen en ontwikkel je jouw eigen schrijfstem voor alles van vrolijke baby- en peuterboeken tot sprankelende kleuterverhalen en meeslepende jeugdromans.
+          <details>
+            <summary>Lees meer</summary>
+            In de online cursus Kinderverhalen Schrijven verdiep je je in het schrijven voor jonge lezers. Je ontdekt wat klank, ritme en rijm doen met een tekst, leert hoe je onvergetelijke jeugdromanpersonages creëert en duikt in de magische en fantasierijke wereld van het kind.
+In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzoek je welke soorten verhalen voor elke doelgroep aantrekkelijk zijn. Zo ontwikkel je stap voor stap jouw eigen manier van schrijven voor deze jonge doelgroep.
           </details>
         </p>
         </div>

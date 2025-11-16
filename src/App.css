@@ -443,6 +443,7 @@ nav {
 .persoonlijk,
 .schrijftherapie,
 .expats,
+.kinderen,
 .theater{
   border: 2px solid rgb(70, 123, 124);
   border-radius: 10px;
@@ -464,6 +465,7 @@ nav {
 .persoonlijk strong,
 .schrijftherapie strong,
 .expats strong,
+.kinderen strong,
 .theater strong,
 .nieuws strong{
   line-height: 1.8;
@@ -473,6 +475,7 @@ nav {
 .persoonlijk p,
 .schrijftherapie p,
 .expats p,
+.kinderen p, 
 .theater p,
 .nieuws p{
   margin-right: 7px;
@@ -536,6 +539,7 @@ nav {
   .ambacht,
   .persoonlijk,
   .expats,
+  .kinderen,
   .theater,
   .schrijftherapie {
     padding: 15px;

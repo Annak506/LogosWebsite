@@ -191,7 +191,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className="persoonlijk">
+        <div className="persoonlijk light-blue-block" >
         <p>
           <strong> Het persoonlijk verhaal</strong> 
           <br style={{ marginBottom: "5px" }} />
@@ -215,7 +215,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className="schrijftherapie">
+        <div className="schrijftherapie ">
         <p>
           <strong> Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
@@ -234,7 +234,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className = "expats">
+        <div className = "expats light-blue-block">
         <p>
           <strong>Creatief schrijven voor expats en reizigers </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -263,7 +263,7 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
         </p>
         </div>
 
-        <div className="theater">
+        <div className="theater light-blue-block">
   <p>
     <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />

@@ -605,3 +605,9 @@ nav {
   color: #004d40;
   text-decoration: underline;
 }
+
+.light-blue-block {
+  background-color: #d0e7ff; /* lichtblauw */
+  padding: 20px;             /* optioneel, voor ruimte binnen het blok */
+  border-radius: 5px;        /* optioneel, afgeronde hoeken */
+}

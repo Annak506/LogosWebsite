@@ -622,20 +622,27 @@ nav {
   border: 4px solid #e7bb75;
   background-color: #fff3e0;
 }
-
 /* Dropdown container */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
-/* Dropdown button */
+/* Dropdown button - match nav.menu a */
 .dropbtn {
   background: none;
   border: none;
-  color: white;
-  font-size: 16px;
+  color: #4d4d4d;      /* zelfde kleur als nav.menu a */
+  font-weight: 600;     /* match nav.menu a */
+  padding: 5px 10px;    /* match nav.menu a */
+  font-size: 1rem;      /* match nav.menu a */
   cursor: pointer;
+  text-decoration: none;
+}
+
+.dropbtn:hover {
+  color: #161616;       /* match hover van nav.menu a */
+  text-decoration: underline;
 }
 
 /* Dropdown content */
@@ -648,16 +655,18 @@ nav {
   z-index: 1;
 }
 
-/* Links inside dropdown */
+/* Links inside dropdown - match nav.menu a */
 .dropdown-content a {
-  color: black;
-  padding: 10px 16px;
+  color: #4d4d4d;        /* zelfde kleur als nav.menu a */
+  padding: 5px 10px;     /* match nav.menu a */
   text-decoration: none;
   display: block;
+  font-weight: 600;
 }
 
-/* Hover effect */
 .dropdown-content a:hover {
+  color: #161616;        /* match nav.menu a hover */
+  text-decoration: underline;
   background-color: #f1f1f1;
 }
 
@@ -665,4 +674,3 @@ nav {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-

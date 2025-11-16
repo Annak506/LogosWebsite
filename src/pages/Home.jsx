@@ -14,9 +14,7 @@ export default function Home() {
     <div className="home-container">
       <h1>Welkom bij Logos Schrijven en Coaching.</h1>
       <p>
-        Schrijven is veel meer dan alleen het neerzetten van woorden op papier.
-        Het is het vertellen van een verhaal, een uitlaatklep, een instrument
-        voor introspectie, en een manier om emoties te onthullen en verwerken.
+       Logos Schrijven & Coaching biedt ambachtelijke, individuele schrijflessen en schrijfcoaching op maat. Voor iedereen die zijn techniek wil aanscherpen, een project wil vormgeven of via schrijven verdieping zoekt.
       </p>
       <Link to="information" title="Ontdek onze diverse schrijfcursussen en coachingstrajecten, online en in Amsterdam">
         Vind jouw cursus

@@ -658,3 +658,13 @@ nav {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+header .link-button {
+  color: #4d4d4d; /* hetzelfde als de andere header-links */
+  font-weight: 600;
+  text-decoration: none;
+}
+header .link-button:hover {
+  color: #161616;
+  text-decoration: underline;
+}

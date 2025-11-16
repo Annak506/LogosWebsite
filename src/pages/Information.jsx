@@ -34,7 +34,7 @@ export default function Information() {
           </span>
   
           <span className="bullet-point">
-          ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijven als Ambacht - Theater’ </strong>
+          ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijf je eigen toneelstuk’ </strong>
           </span>
 
 
@@ -246,7 +246,7 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
 
         <div className="theater">
   <p>
-    <strong>Schrijven als Ambacht - Theater: Jouw verhaal op het toneel</strong>
+    <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />
     Bij Logos Schrijven & Training geloven we dat schrijven een ambacht is: een vaardigheid die je kunt ontwikkelen, verfijnen en eigen maken. Onze populaire module Schrijven als Ambacht heeft nu een gloednieuwe variant: Schrijven als Ambacht - Theater.
 

@@ -14,7 +14,7 @@ export default function Home() {
     <div className="home-container">
       <h1>Welkom bij Logos Schrijven en Coaching.</h1>
       <p>
-       Logos Schrijven & Coaching biedt ambachtelijke, individuele schrijflessen en schrijfcoaching op maat. Voor iedereen die zijn techniek wil aanscherpen, een project wil vormgeven of via schrijven verdieping zoekt.
+       Wij bieden ambachtelijke, individuele schrijflessen en schrijfcoaching op maat. Voor iedereen die zijn techniek wil aanscherpen, een project wil vormgeven of via schrijven verdieping zoekt.
       </p>
       <Link to="information" title="Ontdek onze diverse schrijfcursussen en coachingstrajecten, online en in Amsterdam">
         Vind jouw cursus

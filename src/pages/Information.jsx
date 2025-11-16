@@ -70,7 +70,7 @@ useEffect(() => {
           ✎ Wil je verhalen creëren voor alles van babyboek tot jeugdroman en leren hoe je elke leeftijdsgroep weet te raken? Kies dan voor <strong>  ‘Kinderverhalen Schrijven’ </strong>.
           </span>
           <span className="bullet-point">
-            ✎ Wil je leren hoe je spanning opbouwt, onverwachte plotwendingen creëert en verhalen schrijft die je lezers tot het einde op het puntje van hun stoel houden? Kies dan voor <strong> ‘Thriller schrijven’ </strong>.
+            ✎ Wil je leren hoe je spanning opbouwt, onverwachte plotwendingen creëert en verhalen schrijft die je lezers tot het einde op het puntje van hun stoel houden? Kies dan voor <strong> ‘Thrillers schrijven’ </strong>.
           </span>
           <span className="bullet-point">
           ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijf je eigen toneelstuk’ </strong>
@@ -289,7 +289,7 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
         <p>
           <strong>Kinderverhalen schrijven </strong>
           <br style={{ marginBottom: "5px" }} />
-          Wil je leren hoe je kinderen kunt betoveren met fantasierijke en aansprekende verhalen? In deze cursus ontdek je de bouwstenen van het schrijven van kinderverhalen en ontwikkel je jouw eigen schrijfstem voor alles van vrolijke baby- en peuterboeken tot sprankelende kleuterverhalen en meeslepende jeugdromans.
+          Wil je leren hoe je kinderen kunt betoveren met fantasierijke en aansprekende verhalen? In deze cursus ontdek je de bouwstenen van het schrijven van kinderverhalen en ontwikkel je jouw eigen schrijfstem voor alles van vrolijke baby- en peuterverhalen tot sprankelende kleuterverhalen en meeslepende jeugdromans.
           <details>
             <summary>Lees meer</summary>
             In de online cursus Kinderverhalen Schrijven verdiep je je in het schrijven voor jonge lezers. Je ontdekt wat klank, ritme en rijm doen met een tekst, leert hoe je onvergetelijke jeugdromanpersonages creëert en duikt in de magische en fantasierijke wereld van het kind.
@@ -303,7 +303,7 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
         <p>
           <strong>Thrillers schrijven </strong>
           <br style={{ marginBottom: "5px" }} />
-          In de online cursus Thriller schrijven maak je kennis met de basisvaardigheden van het schrijversvak, met natuurlijk het accent op… spanning!
+          In de online cursus Thrillers schrijven maak je kennis met de basisvaardigheden van het schrijversvak, met natuurlijk het accent op… spanning!
 Leer hoe je een geloofwaardig en meeslepend plot opbouwt, hoe cliffs, timing en tijd bijdragen aan een spannend verhaal, en hoe je levensechte karakters tot leven brengt. Ook duik je in de verschillende thrillergenres.
           <details>
             <summary>Lees meer</summary>

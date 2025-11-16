@@ -69,7 +69,7 @@ useEffect(() => {
           <span className="bullet-point">
           ✎ Wil je verhalen creëren voor alles van babyboek tot jeugdroman en leren hoe je elke leeftijdsgroep weet te raken? Kies dan voor <strong>  ‘Kinderverhalen Schrijven’ </strong>.
           </span>
-          <span classname="bullet-point">
+          <span className="bullet-point">
             ✎ Wil je leren hoe je spanning opbouwt, onverwachte plotwendingen creëert en verhalen schrijft die je lezers tot het einde op het puntje van hun stoel houden? Kies dan voor <strong> ‘Thriller schrijven’ </strong>.
           </span>
           <span className="bullet-point">

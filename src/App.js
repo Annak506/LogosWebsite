@@ -34,10 +34,10 @@ function App() {
         <Link to="/information#ambacht">Schrijven als ambacht</Link>
         <Link to="/information#persoonlijk">Het persoonlijk verhaal</Link>
         <Link to="/information#schrijftherapie">Schrijftherapie en empowerment</Link>
-        <Link to="/information#expats">Creatief schrijven voor expats en reizigers</Link>
-        <Link to="/information#kinderen">Kinderverhalen schrijven</Link>
-        <Link to="/information#thrillers">Thrillers schrijven</Link>
-        <Link to="/information#theater">Schrijf je eigen toneelstuk</Link>
+        <Link to="/information#expats">Expats en reizigers</Link>
+        <Link to="/information#kinderen">Kinderverhalen</Link>
+        <Link to="/information#thrillers">Thrillers </Link>
+        <Link to="/information#theater">Theater</Link>
       </div>
     </div>
 

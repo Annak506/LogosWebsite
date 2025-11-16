@@ -16,7 +16,7 @@ export default function Information() {
       }
     }
   }, [location]); 
-  
+
   return (
     <div className="about-page-container">
       <div className="about-page-content">
@@ -278,7 +278,7 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
         </div>
 
 
-          <div id="thrilers" className = "thrillers light-blue-block ">
+          <div id="thrillers" className = "thrillers light-blue-block ">
         <p>
           <strong>Thrillers schrijven </strong>
           <br style={{ marginBottom: "5px" }} />

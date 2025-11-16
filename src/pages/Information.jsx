@@ -99,6 +99,9 @@ Het Logos Team
   <p>
     📅 Je kunt je op elk moment van het jaar aanmelden!
   </p>
+
+    <details>
+  <summary>Lees meer</summary>
   <p>
     Deze masterclasses zijn voor alle niveaus – of je nu net begint met schrijven of al een manuscript hebt klaarliggen, er is altijd ruimte om te groeien!
   </p>
@@ -120,8 +123,7 @@ Het Logos Team
       <li>Redigeren van je eigen verhaal (<em>december</em>): Maak je verhaal af met onze redigeer- en tipsessie! ✍️</li>
     </ul>
   </p>
-  <details>
-  <summary>Lees meer</summary>
+
   <p>
     Aanmelden: Stuur een mail naar <a href="mailto:schrijvenencoaching@gmail.com">schrijvenencoaching@gmail.com</a> om je plek te reserveren! 🌟
   </p>

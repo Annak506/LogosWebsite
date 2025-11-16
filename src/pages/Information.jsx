@@ -18,7 +18,7 @@ useEffect(() => {
         element.scrollIntoView({ behavior: "smooth" });
 
         // Highlight verwijderen van alle blokken
-        document.querySelectorAll('.light-blue-block white-block').forEach(el =>
+        document.querySelectorAll('.light-blue-block, white-block').forEach(el =>
           el.classList.remove('highlight')
         );
 

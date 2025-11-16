@@ -443,6 +443,7 @@ nav {
 .persoonlijk,
 .schrijftherapie,
 .expats,
+.thrllers,
 .kinderen,
 .theater{
   border: 2px solid rgb(70, 123, 124);
@@ -465,6 +466,7 @@ nav {
 .persoonlijk strong,
 .schrijftherapie strong,
 .expats strong,
+.thrillers strong,
 .kinderen strong,
 .theater strong,
 .nieuws strong{
@@ -475,6 +477,7 @@ nav {
 .persoonlijk p,
 .schrijftherapie p,
 .expats p,
+.thrillers p,
 .kinderen p, 
 .theater p,
 .nieuws p{
@@ -539,6 +542,7 @@ nav {
   .ambacht,
   .persoonlijk,
   .expats,
+  .thrillers,
   .kinderen,
   .theater,
   .schrijftherapie {

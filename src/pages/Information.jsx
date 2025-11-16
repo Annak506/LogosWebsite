@@ -36,6 +36,10 @@ export default function Information() {
             <span className="bullet-point">
           ✎ Wil je verhalen creëren voor alles van babyboek tot jeugdroman en leren hoe je elke leeftijdsgroep weet te raken? Kies dan voor <strong>  ‘Kinderverhalen Schrijven’ </strong>.
           </span>
+
+          <span classname="bullet-point">
+            ✎ Wil je leren hoe je spanning opbouwt, onverwachte plotwendingen creëert en verhalen schrijft die je lezers tot het einde op het puntje van hun stoel houden? Kies dan voor <strong> ‘Thriller schrijven’ </strong>.
+          </span>
   
           <span className="bullet-point">
           ✎ Droom je ervan om theaterstukken te schrijven en wil je leren hoe je jouw creativiteit vertaalt naar het theater? Meld je aan voor <strong>‘Schrijf je eigen toneelstuk’ </strong>
@@ -238,7 +242,7 @@ Het Logos Team
         <p>
           <strong>Creatief schrijven voor expats en reizigers </strong>
           <br style={{ marginBottom: "5px" }} />
-          Deze module is speciaal ontworpen voor expats en reizigers die hun ervaringen in het buitenland op een creatieve manier willen vastleggen. Je leert hoe je levendige beschrijvingen maakt van nieuwe omgevingen, authentieke personages creëert gebaseerd op de mensen die je ontmoet, en hoe je culturele misverstanden en clashes kunt omzetten in boeiende verhalen.
+          Deze online cursus is speciaal ontworpen voor expats en reizigers die hun ervaringen in het buitenland op een creatieve manier willen vastleggen. Je leert hoe je levendige beschrijvingen maakt van nieuwe omgevingen, authentieke personages creëert gebaseerd op de mensen die je ontmoet, en hoe je culturele misverstanden en clashes kunt omzetten in boeiende verhalen.
           <details>
             <summary>Lees meer</summary>
             Daarnaast besteden we aandacht aan de unieke uitdagingen die het schrijven als expat met zich meebrengt, zoals het vertalen van culturele nuances en het vinden van je plaats in een nieuwe omgeving. Deze cursus helpt je om jouw unieke perspectieven en verhalen te verkennen en uit te drukken. <br></br> Je wordt aangemoedigd om diep in een nieuwe cultuur te duiken en de verschillende aspecten daarvan te onderzoeken en te beschrijven.
@@ -263,13 +267,30 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
         </p>
         </div>
 
-        <div className="theater light-blue-block">
+
+          <div className = "thrillers light-blue-block ">
+        <p>
+          <strong>Thrillers schrijven </strong>
+          <br style={{ marginBottom: "5px" }} />
+          In de online cursus Thriller schrijven maak je kennis met de basisvaardigheden van het schrijversvak, met natuurlijk het accent op… spanning!
+Leer hoe je een geloofwaardig en meeslepend plot opbouwt, hoe cliffs, timing en tijd bijdragen aan een spannend verhaal, en hoe je levensechte karakters tot leven brengt. Ook duik je in de verschillende thrillergenres.
+          <details>
+            <summary>Lees meer</summary>
+           Tijdens de cursus ontdek je het verschil tussen thrillers en detectives, leer je hoe je de lezer tot het einde geboeid houdt en hoe je een echte pageturner schrijft. Je oefent met plotwendingen, spanning opbouwen en het slim doseren van informatie, zodat jouw verhaal van begin tot eind de lezer op het puntje van de stoel houdt.
+          </details>
+        </p>
+        </div>
+
+
+
+
+        <div className="theater ">
   <p>
     <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />
     Bij Logos Schrijven & Training geloven we dat schrijven een ambacht is: een vaardigheid die je kunt ontwikkelen, verfijnen en eigen maken. Onze populaire module Schrijven als Ambacht heeft nu een gloednieuwe variant: Schrijven als Ambacht - Theater.
 
-    In deze module duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.</p>
+    In deze cursus duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.</p>
   <details>
     <summary>Lees meer</summary>
     <p>Onder begeleiding van onze ervaren trainers werk je aan:</p>
@@ -280,11 +301,11 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
       <li>Treatment: Hoe vertaal je jouw ideeën naar een heldere, gestructureerde blauwdruk?</li>
     </ul>
     <p>
-      Maar dat is nog niet alles. Tijdens de module onderzoeken we ook wat jíj met jouw theatertekst wilt vertellen. Welke boodschap wil je overbrengen? Wat wil je het publiek laten voelen, denken of ervaren? Samen zoeken we naar jouw unieke stem als theaterauteur.
+      Maar dat is nog niet alles. Tijdens de cursus onderzoeken we ook wat jíj met jouw theatertekst wilt vertellen. Welke boodschap wil je overbrengen? Wat wil je het publiek laten voelen, denken of ervaren? Samen zoeken we naar jouw unieke stem als theaterauteur.
     </p>
     <p>
       <strong>Voor wie?</strong><br />
-      Deze module is perfect voor iedereen die de ambitie heeft om theaterteksten te schrijven, of je nu al ervaring hebt of net begint. Of je nu droomt van een intiem kamerstuk of een grootse productie, bij ons leg je de basis voor een theatertekst die impact maakt.
+      Deze cursus is perfect voor iedereen die de ambitie heeft om theaterteksten te schrijven, of je nu al ervaring hebt of net begint. Of je nu droomt van een intiem kamerstuk of een grootse productie, bij ons leg je de basis voor een theatertekst die impact maakt.
     </p>
     <p>
       Ben jij klaar om jouw verhaal op het toneel tot leven te brengen? Meld je aan voor Schrijven als Ambacht - Theater en ontdek de kunst van het theaterschrijven.

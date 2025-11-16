@@ -157,7 +157,7 @@ Het Logos Team
 
 
 
-        <div className = "ambacht">
+        <div id="ambacht" className = "ambacht">
         <p>
           <strong>Schrijven als ambacht </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -192,7 +192,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className="persoonlijk light-blue-block" >
+        <div id="persoonlijk" className="persoonlijk light-blue-block" >
         <p>
           <strong> Het persoonlijk verhaal</strong> 
           <br style={{ marginBottom: "5px" }} />
@@ -216,7 +216,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className="schrijftherapie ">
+        <div id="schrijftherapie" className="schrijftherapie ">
         <p>
           <strong> Schrijftherapie en empowerment</strong>
           <br style={{ marginBottom: "5px" }} />
@@ -235,7 +235,7 @@ Het Logos Team
         </p>
         </div>
 
-        <div className = "expats light-blue-block">
+        <div id="expats" className = "expats light-blue-block">
         <p>
           <strong>Creatief schrijven voor expats en reizigers </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -251,7 +251,7 @@ Of je nu schrijft om herinneringen vast te leggen, anderen te inspireren met je 
         </p>
         </div>
 
-           <div className = "kinderen">
+           <div id="kinderen" className = "kinderen">
         <p>
           <strong>Kinderverhalen schrijven </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -265,7 +265,7 @@ In deze lessen maak je kennis met verschillende leeftijdscategorieën en onderzo
         </div>
 
 
-          <div className = "thrillers light-blue-block ">
+          <div id="thrilers" className = "thrillers light-blue-block ">
         <p>
           <strong>Thrillers schrijven </strong>
           <br style={{ marginBottom: "5px" }} />
@@ -281,7 +281,7 @@ Leer hoe je een geloofwaardig en meeslepend plot opbouwt, hoe cliffs, timing en 
 
 
 
-        <div className="theater ">
+        <div id="theater" className="theater ">
   <p>
     <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />

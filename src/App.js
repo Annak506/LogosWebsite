@@ -27,7 +27,20 @@ function App() {
         </button>
         <nav className={`menu ${isMenuOpen ? 'open' : ''}`}>
           <Link to="/about">Over ons</Link>
-          <Link to="/information">Cursussen</Link>
+         
+ <div className="dropdown">
+      <button className="dropbtn">Cursussen ▼</button>
+      <div className="dropdown-content">
+        <Link to="/information#ambacht">Schrijven als ambacht</Link>
+        <Link to="/information#persoonlijk">Het persoonlijk verhaal</Link>
+        <Link to="/information#schrijftherapie">Schrijftherapie en empowerment</Link>
+        <Link to="/information#expats">Creatief schrijven voor expats en reizigers</Link>
+        <Link to="/information#kinderen">Kinderverhalen schrijven</Link>
+        <Link to="/information#thrillers">Thrillers schrijven</Link>
+        <Link to="/information#theater">Schrijf je eigen toneelstuk</Link>
+      </div>
+    </div>
+
           <Link to="/reviews">Recensies</Link>
           <Link to="https://logosblogs.netlify.app/">Blogs</Link>
           <Link to="https://logosexpats.netlify.app/">Expats</Link>

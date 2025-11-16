@@ -316,12 +316,12 @@ Leer hoe je een geloofwaardig en meeslepend plot opbouwt, hoe cliffs, timing en 
 
 
         <div id="theater" className="theater white-block">
-  <p>
+  
     <strong>Schrijf je eigen toneelstuk</strong>
     <br style={{ marginBottom: "5px" }} />
     Bij Logos Schrijven & Training geloven we dat schrijven een ambacht is: een vaardigheid die je kunt ontwikkelen, verfijnen en eigen maken. Onze populaire module Schrijven als Ambacht heeft nu een gloednieuwe variant: Schrijven als Ambacht - Theater.
 
-    In deze cursus duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.</p>
+    In deze cursus duiken we samen in de wereld van het theater. Je leert stap voor stap hoe je een theaterstuk kunt schrijven, waarbij de ambachtelijke aspecten van dit bijzondere genre centraal staan.
   <details>
     <summary>Lees meer</summary>
     <p>Onder begeleiding van onze ervaren trainers werk je aan:</p>

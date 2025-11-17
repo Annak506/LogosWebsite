@@ -7,6 +7,7 @@ import Information from './pages/Information';
 import Blogs from './pages/Blogs';
 import Expats from './pages/Expats';
 import './App.css';
+import Contact from './pages/Contact';
 import App from './App.js'
 
 

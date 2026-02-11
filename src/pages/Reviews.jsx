@@ -17,8 +17,8 @@ export default function Reviews(){
           <br style={{ marginBottom: "5px" }} />
           <br style={{ marginBottom: "5px" }} />
           <span className="bullet-point">
-          ✎ ‘Hetty zag en waardeerde het verhaal dat al in me zat. Deskundige feedback deed de rest.’ 
-            <span className="reviewName"> - Rien (64 jaar), Nij Beets </span>
+          ✎ ‘Anna zag en waardeerde het verhaal dat al in me zat. Deskundige feedback deed de rest.’
+            <span className="reviewName"> - Johan (64 jaar), Nij Beets </span>
           </span>
           <br></br>
 

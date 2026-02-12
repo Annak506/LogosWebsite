@@ -3,7 +3,7 @@ import React from 'react';
 function Redactie() {
   return (
     <div className="page redactie-page">
-      <h1>Redactie & Feedback</h1>
+      <h1>Redactie & feedback</h1>
 
       <p>
   Naast onze schrijfcursussen biedt Logos ook redactiediensten aan.

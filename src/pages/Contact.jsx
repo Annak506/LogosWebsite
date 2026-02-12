@@ -3,7 +3,8 @@ import React from "react";
 export default function Contact() {
 
   return (
-    <div className="page contact-container">
+    <div className="page contact-page">
+    <div className="contact-container">
       <h2>Contacteer ons hier</h2>
       <p>
         📧 E-mail:{" "}
@@ -22,6 +23,7 @@ export default function Contact() {
           @schrijvenencoaching
         </a>
       </p>
+    </div>
     </div>
   );
 }

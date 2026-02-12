@@ -581,7 +581,7 @@ nav {
 /* Contact Page */
 .contact-container {
   max-width: 700px;
-  margin: 50px auto 100px auto;
+  margin: 50px auto;
    padding: 20px;
   background-color: #e0f4f3;
   border-radius: 12px;
@@ -591,7 +591,7 @@ nav {
 
 .contact-page {
   background-color: #fff3e0; 
-  padding-bottom: 6rem;
+   padding: 2rem 0 6rem;
 }
 
 .contact-container h2 {

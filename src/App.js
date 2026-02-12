@@ -7,6 +7,7 @@ import Blogs from './pages/Blogs';
 import Expats from './pages/Expats';
 import Contact from './pages/Contact';
 import Reviews from './pages/Reviews';
+import Redactie from './pages/Redactie';
 import './App.css';
 
 function App() {
@@ -45,6 +46,7 @@ function App() {
           <Link to="https://logosblogs.netlify.app/">Blogs</Link>
           <Link to="https://logosexpats.netlify.app/">Expats</Link>
           <Link to="/contact">Contact</Link>
+            <Link to="/redactie">Redactie</Link>
         </nav>
       </header>
       <Routes>
@@ -55,6 +57,7 @@ function App() {
         <Route path="/reviews" element={<Reviews />} />
         <Route path="/expats" element ={<Expats />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/redactie" element={<Redactie />} />
       </Routes>
     </BrowserRouter>
   );

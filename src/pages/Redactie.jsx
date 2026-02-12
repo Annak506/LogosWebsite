@@ -42,6 +42,8 @@ function Redactie() {
           Nieuwsgierig? Ga naar Logos Redactie
         </a>
       </div>
+
+      <p> </p>
     </div>
   );
 }

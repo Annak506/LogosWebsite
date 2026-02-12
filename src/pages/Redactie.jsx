@@ -39,11 +39,11 @@ function Redactie() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Nieuwsgierig? Ga naar Logos Redactie
+          Nieuwsgierig? Ga naar Logos Redactie.
         </a>
       </div>
 
-      <p> </p>
+     
     </div>
   );
 }

@@ -683,7 +683,7 @@ nav {
    ========================= */
 
 .redactie-section {
-  padding: 4rem 1.5rem;
+  padding: 4rem 1.5rem 6rem 1.5rem; 
   display: flex;
   justify-content: center;
 }

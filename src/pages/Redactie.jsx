@@ -2,7 +2,7 @@ import React from 'react';
 
 function Redactie() {
   return (
-    <div className="page">
+    <div className="page redactie-page">
       <h1>Redactie & Feedback</h1>
 
       <p>

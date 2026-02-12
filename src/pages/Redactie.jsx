@@ -6,7 +6,7 @@ function Redactie() {
       <h1>Redactie & Feedback</h1>
 
       <p>
-  Naast onze schrijfcursussen biedt Logos ook professionele redactiediensten aan.
+  Naast onze schrijfcursussen biedt Logos ook redactiediensten aan.
 </p>
 
 

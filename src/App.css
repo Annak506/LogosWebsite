@@ -724,3 +724,308 @@ nav {
   padding: 0.5rem 2rem 2rem 2rem;
 }
 
+/* =========================================
+   BOEKENPAGINA
+   ========================================= */
+
+.books-page {
+  width: 100%;
+  background: #f7f3ec;
+  padding-bottom: 80px;
+}
+
+
+/* =========================================
+   HEADER
+   ========================================= */
+
+.books-header {
+  width: 100vw;
+  height: 400px;
+  margin-left: calc(50% - 50vw);
+  overflow: hidden;
+}
+
+.books-header img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+
+/* =========================================
+   BOEKENLIJST
+   ========================================= */
+
+.books-list {
+  width: min(1100px, calc(100% - 60px));
+  margin: 0 auto;
+}
+
+
+/* =========================================
+   BOEK
+   ========================================= */
+
+.book-card {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 45px;
+
+  padding: 55px 0;
+
+  border-top: 1px solid rgba(45, 67, 72, 0.16);
+}
+
+.book-card:first-child {
+  border-top: none;
+}
+
+
+/* =========================================
+   COVER
+   ========================================= */
+
+.book-cover {
+  width: 180px;
+}
+
+.book-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.13);
+}
+
+
+/* =========================================
+   BOEKINFORMATIE
+   ========================================= */
+
+.book-info {
+  min-width: 0;
+  padding-top: 2px;
+}
+
+.book-info h2 {
+  margin: 0 0 9px;
+
+  color: #294f5d;
+  font-size: 1.65rem;
+  line-height: 1.25;
+}
+
+.book-meta {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+
+  margin-bottom: 8px;
+
+  color: #3f555a;
+  font-size: 0.98rem;
+}
+
+.book-meta span {
+  margin: 0;
+}
+
+.book-meta .separator {
+  margin: 0 9px;
+  color: #8a9a9c;
+}
+
+.book-date {
+  margin: 0 0 22px;
+
+  color: #667477;
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+.book-description {
+  max-width: 720px;
+
+  color: #303b3d;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+
+/* =========================================
+   LIBRIS-KNOP
+   ========================================= */
+
+.book-button {
+  display: inline-block;
+
+  margin-top: 26px;
+  padding: 0.75rem 1.375rem;
+
+  background: #7fbebc;
+  color: white;
+
+  text-decoration: none;
+  font-weight: 700;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  transition: transform 0.1s ease-in-out;
+}
+
+.book-button:hover {
+  transform: translate(1px, 1px);
+}
+
+
+/* =========================================
+   VERSCHIJNT BINNENKORT
+   ========================================= */
+
+.book-coming-soon {
+  display: inline-block;
+
+  margin-top: 26px;
+  padding: 0.75rem 1.375rem;
+
+  background: #e3eeeb;
+  color: #294f5d;
+
+  font-weight: 700;
+
+  border-radius: 5px;
+}
+
+
+/* =========================================
+   TABLET / KLEINERE LAPTOP
+   ========================================= */
+
+@media only screen and (max-width: 900px) {
+
+  .books-header {
+    height: 330px;
+  }
+
+  .books-list {
+    width: calc(100% - 50px);
+  }
+
+  .book-card {
+    grid-template-columns: 160px 1fr;
+    gap: 35px;
+
+    padding: 45px 0;
+  }
+
+  .book-cover {
+    width: 160px;
+  }
+}
+
+
+/* =========================================
+   MOBIEL
+   ========================================= */
+
+@media only screen and (max-width: 768px) {
+
+  .books-header {
+    height: 230px;
+  }
+
+  .books-list {
+    width: calc(100% - 40px);
+  }
+
+  .book-card {
+    grid-template-columns: 125px 1fr;
+    gap: 25px;
+
+    padding: 38px 0;
+  }
+
+  .book-cover {
+    width: 125px;
+  }
+
+  .book-info h2 {
+    font-size: 1.3rem;
+  }
+
+  .book-meta {
+    font-size: 0.88rem;
+  }
+
+  .book-description {
+    font-size: 0.94rem;
+    line-height: 1.65;
+  }
+}
+
+
+/* =========================================
+   KLEINE TELEFOON
+   ========================================= */
+
+@media only screen and (max-width: 550px) {
+
+  .books-page {
+    padding-bottom: 50px;
+  }
+
+  .books-header {
+    height: 180px;
+  }
+
+  .books-list {
+    width: calc(100% - 30px);
+  }
+
+  .book-card {
+    grid-template-columns: 95px 1fr;
+    gap: 18px;
+
+    padding: 30px 0;
+  }
+
+  .book-cover {
+    width: 95px;
+  }
+
+  .book-info h2 {
+    margin-bottom: 6px;
+    font-size: 1.1rem;
+  }
+
+  .book-meta {
+    font-size: 0.8rem;
+    line-height: 1.45;
+  }
+
+  .book-meta .separator {
+    margin: 0 6px;
+  }
+
+  .book-date {
+    margin-bottom: 15px;
+    font-size: 0.78rem;
+  }
+
+  .book-description {
+    font-size: 0.88rem;
+    line-height: 1.6;
+  }
+
+  .book-button,
+  .book-coming-soon {
+    margin-top: 18px;
+    padding: 0.65rem 0.9rem;
+    font-size: 0.82rem;
+  }
+}

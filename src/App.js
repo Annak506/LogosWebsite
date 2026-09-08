@@ -8,6 +8,8 @@ import Expats from './pages/Expats';
 import Contact from './pages/Contact';
 import Reviews from './pages/Reviews';
 import Redactie from './pages/Redactie';
+import Books from './pages/Books';
+
 import './App.css';
 
 function App() {
@@ -43,10 +45,13 @@ function App() {
     </div>
 
           <Link to="/reviews">Recensies</Link>
+            <Link to="/boeken">Boeken</Link>
+               <Link to="/redactie">Redactie</Link>
           <Link to="https://logosblogs.netlify.app/">Blogs</Link>
           <Link to="https://logosexpats.netlify.app/">Expats</Link>
           <Link to="/contact">Contact</Link>
-            <Link to="/redactie">Redactie</Link>
+         
+          
         </nav>
       </header>
       <Routes>
@@ -58,6 +63,7 @@ function App() {
         <Route path="/expats" element ={<Expats />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/redactie" element={<Redactie />} />
+        <Route path="/boeken" element={<Books />} />
       </Routes>
     </BrowserRouter>
   );

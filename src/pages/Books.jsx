@@ -16,7 +16,7 @@ import headerImage from '../images/books/books-header.jpg';
 const books = [
   {
     title: 'Jacob en de Magische olifant',
-    author: 'Anna Kleinloog',
+    author: 'Anna Bannenberg (pseudoniem van Anna Kleinloog)',
     date: '16 oktober 2026',
     genre: 'Kinderboek',
     future: false,

@@ -19,7 +19,7 @@ const books = [
     author: 'Anna Kleinloog',
     date: '16 oktober 2026',
     genre: 'Kinderboek',
-    future: true,
+    future: false,
     cover: jacobCover,
     description: `Jacob woont alleen met zijn vader in een oud, stoffig huis. Op een dag breekt een van de weinige dierbare voorwerpen die hij nog van zijn moeder heeft. Net wanneer het verdriet te groot lijkt, gebeurt er iets wonderlijks. Uit het wandkleed in zijn kamer stapt Bo, een kleine, merkwaardige olifant. Samen trekken ze de wereld in, op zoek naar wat verloren is. Maar in de schaduw loert gevaar: Joan, die uit is op rijkdom, heeft haar eigen plannen met Bo. Terwijl Jacob steeds verder van huis raakt, fietst zijn vader wanhopig door de stad, op zoek naar zijn zoon. Zal hij Jacob op tijd vinden, en hoe loopt het af met Bo?`,
     bruna: 'https://www.bruna.nl/boeken/jacob-en-de-magische-olifant-9789465448466?utm_source=adtraction&utm_medium=affiliate&utm_campaign=adtraction&at_gd=43537500C9C15AEEC67C4F76F2F8AAA01C96CEE3',
